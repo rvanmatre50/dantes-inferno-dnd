@@ -5,7 +5,7 @@
 		<description>The content from the Inferno homebrew 5e source books.</description>
 		<author url="https://acheronstore.com">Acheron Games</author>
 		<update version="0.0.1">
-			<file name="inferno.index" url="https://raw.githubusercontent.com/rvanmatre50/dantes-inferno-dnd/refs/heads/main/inferno.index?token=GHSAT0AAAAAAC42T4CJCOJEGBN54XBU4XIAZ33OWKA" />
+			<file name="inferno.index" url="https://raw.githubusercontent.com/rvanmatre50/dantes-inferno-dnd/refs/heads/master/inferno.index?token=GHSAT0AAAAAAC42T4CJYXONHIJWZHNXJ6HQZ33PBAQ" />
 		</update>
 	</info>
 	<files>
