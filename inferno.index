@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Inferno</name>
+		<description>The content from Inferno.</description>
+		<author url="https://acheronstore.com">Acheron Games</author>
+		<update version="0.0.1">
+			<file name="inferno.index" url="https://raw.githubusercontent.com/rvanmatre50/elements/master/inferno.index" />
+		</update>
+	</info>
+	<files>
+		<file name="dantes-guide-to-hell.index" url="https://raw.githubusercontent.com/rvanmatre50/elements/master/core/dantes-guide-to-hell.index" />
+		<file name="monster-manual.index" url="https://raw.githubusercontent.com/rvanmatre50/elements/master/core/virgilos-untold-tales.index" />
+	</files>
+</index>
