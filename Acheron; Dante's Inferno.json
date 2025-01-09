@@ -445,7 +445,7 @@
         "Ability Score Improvement|Bard|PHB|12|PHB",
         "Song of Rest (d10)|Bard|PHB|13|PHB",
         "Magical Secrets|Bard|PHB|14|PHB",
-        "Do You Wanna Know How I Got These Scars|The Lost Bard|DI|14|DI",
+        "Do You Wanna Know How I Got These Scars?|The Lost Bard|DI|14|DI",
         "Bardic Inspiration (d12)|Bard|PHB|15|PHB",
         "Ability Score Improvement|Bard|PHB|16|PHB",
         "Song of Rest (d12)|Bard|PHB|17|PHB",
@@ -530,7 +530,62 @@
       "entries": [
         "Starting at 14th level, when you are raging and you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead, and gain immunity to all damage until the beginning of your next turn. After you use this feature, you can't use it again until you complete a long rest."
       ]
-    }
+    },
+    {
+      "name": "Embracing The Sin",
+      "source": "DI",
+      "page": 32,
+      "className": "The Lost Bard",
+      "classSource": "DI",
+      "level": 1,
+      "entries": [
+        "On your turn, you can spend 2 Hope Points to regain all of your expended uses of Bardic Inspiration."
+      ]
+    },
+    {
+      "name": "Aura of Chaos",
+      "source": "DI",
+      "page": 32,
+      "className": "The Lost Bard",
+      "classSource": "DI",
+      "level": 3,
+      "entries": [
+        "Starting at 3rd level, you can use your bonus action and spend one use of your Bardic Inspiration dice to make your Distracting Aura even more chaotic. Until the start of your next turn, every creature within your Distracting Aura who can hear you must subtract the result of your rolled Bardic Inspiration die from an attack roll, an ability check, or a damage roll they make, of your choice. You are affected by this effect as well. A creature that cannot be charmed is immune to this effect."
+      ]
+    },
+    {
+      "name": "Reflection of Pain",
+      "source": "DI",
+      "page": 32,
+      "className": "The Lost Bard",
+      "classSource": "DI",
+      "level": 3,
+      "entries": [
+        "Also at 3rd level, you learn to turn any feeling of pain and despair back at those who attack you. When a creature that you can see within 10 feet of you hits you with a melee weapon, you can use your reaction to force that creature to make a Wisdom saving throw against your spell save DC. The creature then takes 3d6 psychic damage on a failed saving throw, and half as much on a successful one. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest."
+      ]
+    },
+    {
+      "name": "Hideous Echo",
+      "source": "DI",
+      "page": 32,
+      "className": "The Lost Bard",
+      "classSource": "DI",
+      "level": 6,
+      "entries": [
+        "Starting at 6th level, you can cast the spell hideous laughter without expending a spell slot. Once you cast hideous laughter in this way a number of times equal to your proficiency bonus, you can't do so again until you finish a long rest, though you can still cast it normally using an available spell slot. You regain any expended usus when you finish a long rest. In addition, when you cast hideous laughter, you can spend one use of Bardic Inspiration to target with that spell every other creature within your Distracting Aura."
+      ]
+    },
+    {
+      "name": "Do You Wanna Know How I Got These Scars?",
+      "source": "DI",
+      "page": 32,
+      "className": "The Lost Bard",
+      "classSource": "DI",
+      "level": 14,
+      "entries": [
+        "Starting at 14th level, when you suffer a new wound, you can turn a part of it into a wicked form of pleasure and throw that wound back at your attacker. Not even Infernal beings can escape this turmoil. If a creatue hits you with a melee attack, it takes 1d8 psychic damage."
+      ]
+    },
   ],
   "race": [
     {
