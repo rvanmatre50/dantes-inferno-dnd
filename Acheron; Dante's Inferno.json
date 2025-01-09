@@ -800,6 +800,34 @@
                       "‎‎ ",
                       "‎ • Damned: The bonus to attack and damage rolls you make using your Touch of Madness increases to +3. In addition, the psychic damage you deal increases to 3d6."
                     ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Jester Bells",
+                    "entries": [
+                      "‎ ",
+                      "The numerous bells hanging from your semblance are considered an instrument, and grant you a special Distracting Aura. In addition, when you cast a spell that includes a verbal component, you can replace it with a somatic component. Your Distracting Aura works like this. You and every creature within 30 feet of you have disadvantage on Wisdom (Perception) checks that rely on hearing and Dexterity (Stealth) checks.",
+                      "‎ ",
+                      "‎ • Tormented:  When you target a creature with a spell and that creature is within your Distracting Aura, you can choose to add your Touch of Madness damage in addition to the normal effect of the spell.",
+                      "‎ ‎",
+                      "‎ • Burned: You can use an action to deal your Touch of Madness damage to every creature within your Distracting Aura. You are also affected by this effect. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
+                      "‎‎ ",
+                      "‎ • Damned: When you use Wave of Madness, you can spend a spell slot to deal extra psychic damage to your targets, in addition to your Wave of Madness damage. The extra damage is equal to 1d6 for a 1st level spell slot, plus 1d6 for each spell level higher than 1st, to a maximum of 9d6."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Mask",
+                    "entries": [
+                      "‎ ",
+                      "A grinning mask hides a Jester’s face. An outer semblance concealing their inner semblance. While you are wearing no armor and not wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.",
+                      "‎ ",
+                      "‎ • Tormented:  You gain a +1 bonus to your AC and saving throws.",
+                      "‎ ‎",
+                      "‎ • Burned: You can use an action to cast a 5th level version of the confusion spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎‎ ",
+                      "‎ • Damned: When you succeed on a saving throw against any spell that targets only you (not an area of effect), you can use your reaction to reflect that spell. The spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster. Once you use this feature, you can’t use it again until you finish a long rest."
+                    ]
                   }
                 ]
               }
