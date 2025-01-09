@@ -451,8 +451,8 @@
         "Magical Secrets|Bard|PHB|18|PHB",
         "Ability Score Improvement|Bard|PHB|19|PHB",
         "Superior Inspriation|Bard|PHB|20|PHB"
-      ]
-    "hasFluff": true,
+      ],
+      "hasFluff": true,
       "hasFluffImages": true,
       "fluff": {
         "images": [
