@@ -281,12 +281,12 @@
           "rapier",
           "short sword"
         ],
-        "tools": {
-          "any": 3
-        },
-        "skills": {
-          "any": 3
-        }
+        "tools": [
+          "Three musical instruments of your choice"
+        ],
+        "skills": [
+          "Choose any three skills"
+        ]
       },
       "spellcastingAbility": "cha",
       "cantripProgression": [
