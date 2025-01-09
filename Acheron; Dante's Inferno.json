@@ -155,7 +155,6 @@
         "Embrace the Sin|The Lost Barbarian|DI|1|DI",
         "Reckless Attack|Barbarian|PHB|2|PHB",
         "Danger Sense|Barbarian|PHB|2|PHB",
-        "Path of the Beast|The Lost Barbarian|DI|3|DI",
         "Blinding Rage|The Lost Barbarian|DI|3|DI",
         "Ability Score Improvement|Barbarian|PHB|4|PHB",
         "Extra Attack|Barbarian|PHB|5|PHB",
@@ -453,6 +452,82 @@
         "Ability Score Improvement|Bard|PHB|19|PHB",
         "Superior Inspriation|Bard|PHB|20|PHB"
       ]
+    "hasFluff": true,
+      "hasFluffImages": true,
+      "fluff": {
+        "images": [
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://raw.githubusercontent.com/rvanmatre50/infernoimages/main/class_images/thejester1.png"
+            }
+          }
+        ],
+        "name": "The Lost Bard:",
+        "source": "DI",
+        "entries": [
+          {
+            "name": "The Lost Bard",
+            "source": "DI",
+            "page": 29,
+            "type": "section",
+            "entries": [
+              {
+                "type": "inset",
+                "name": "Inferno, Canto XIII, 124-129",
+                "entries": [
+                  "‎ ",
+                  "Behind them was the forest full of black",
+                  "she-mastiffs, ravenous, and swift of foot",
+                  "as greyhounds, who are issuing from the chain",
+                  "‎ ",
+                  "On him who had crouched down they set their teeth,",
+                  "and him they lacerated piece by piece,",
+                  "thereafter bore away those aching members.",
+                  "‎ ",
+                  "‎Dante Alighieri, 1314"
+                ]
+              },
+              {
+                "name": "Overview of the Jester:",
+                "source": "DI",
+                "page": 29,
+                "type": "section",
+                "entries": [
+                  "In the Seventh Circle grows a tangled and wailing forest where every tree entraps the soul of a suicide. Those who squandered their wealth and possessions run forever among those bleeding bushes, pursued and torn to pieces by vicious and hungry hounds. Those who wasted their life and their skills, and those who mocked the Lord by wasting their time in frivolous pleasures will be sentenced to the Seventh Circle of Hell, the circle of the violent against themselves. If they descend into Hell while they’re still alive, they will turn into Jesters, dressed like fools and sporting foolish grin.",
+                  "Maybe you were an idle young man and you spent your whole life locked inside, among foolish toys, frivolous books, and other unworthy pastimes. Or maybe you were a rich and spoiled woman, always thinking about superfluous purchases, galas, and concerts. Or maybe you were a selfish and bitter old woman, who refused to do anything to help those around you in the endless and boring last days of your life. Whatever your guilts in the earthly domain, after your death, your fitting punishment will be to spend eternity in the forest of suicides, hunted down by a savage and untiring pack of hounds. You will never be able to elude them, and you will run forever alongside those who, like you, squandered their greatest gift.",
+                  "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and heavy cloud, foreshadowing what will happen to you after your death, till the end of times, unless you can atone and be redeemed in time.",
+                  "To represent your fatal flaw, your semblance is covered with small bells, whose unending jingles are a dire signal to the hounds waiting for you in the eternal shadows. Your face is eternally frozen in a foolish grin, but it is concealed by a mask which you can never remove, a symbol of the false life you flaunted.",
+                  "You fear the Second Round of the Seventh Circle. Your hardest trial awaits you there!"
+                ]
+              },
+              {
+                "name": "Jester Emblems",
+                "source": "DI",
+                "page": 30,
+                "type": "section",
+                "entries": [
+                  {
+                    "type": "inset",
+                    "name": "Touch of Madness",
+                    "entries": [
+                      "‎ ",
+                      "A jester taints all those around them with their ominous madness, infecting them with the very same folly that affects the jester. You gain a new attack option which you can use with your Attack action. This special action is a melee attack. You are proficient with this attack and you can add your Charisma modifier to your attack and damage rolls. This attack deals psychic damage and its damage die is a d6.",
+                      "‎ ",
+                      "‎ • Tormented:  You gain a +1 bonus to attack and damage rolls you make using your Touch of Madness.",
+                      "‎ ‎",
+                      "‎ • Burned: The bonus to attack and damage rolls you make using your Touch of Madness increases to +2. In addition, the psychic damage you deal increases to 2d6.",
+                      "‎‎ ",
+                      "‎ • Damned: The bonus to attack and damage rolls you make using your Touch of Madness increases to +3. In addition, the psychic damage you deal increases to 3d6."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "name": "The Vicar",
