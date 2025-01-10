@@ -238,19 +238,47 @@
                 "entries": [
                   {
                     "type": "inset",
-                    "name": "BRUTAL WEAPON",
+                    "name": "Brutal Weapon",
                     "entries": [
                       "‎ ",
                       "The beast holds an oversized bloodied ominous weapon, the symbol of their unending wrath.",
                       "A beast's Brutal Weapon is considered a magic weapon. It deal 1d12 bludgeoning damage and has the two handed property. In addition, when you rage and score a critical hit with your Brutal Weapon, you can roll an additional die when determining the extra damage from the critical hit. The additional die varies according to you Rage Damage: +2 adds 1d4, +3 adds 1d6, +4 adds 1d8.",
                       "‎ ",
-                      "‎ • Tormented:",
+                      "‎ • Tormented: You gain a +1 bonus to attack rolls and to damage rolls you make with your Brutal Weapon. In addition, your Brutal Weapon gains the reach property.",
                       "‎ ‎",
-                      "‎ • Burned:",
+                      "‎ • Burned: Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +2. In addition, your Brutal Weapon gains the thrown property with a normal range of 20 feet and a long range of 60 feet. If the beast throws the Brutal Weapon to perform a ranged attack, whether they hit or miss their target, the weapon flies back into the beast’s open hand at the end of their current turn.",
                       "‎‎ ",
-                      "‎ • Damned:"
+                      "‎ • Damned: Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +3. In addition, once per turn, when rolling for damage with your Brutal Weapon, you can reroll your weapon’s damage and choose which one to use."
                     ]
-                  }
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Unchecked Might",
+                    "entries": [
+                      "‎ ",
+                      "A beast is a being unable to restrain themselves, ruled by passions, instincts and feelings. You gain resistance to nonmagical damage.",
+                      "‎ ",
+                      "‎ • Tormented: Your Strength or Constitution score increases by 2, along with the maximum you can increase that score to.",
+                      "‎ ‎",
+                      "‎ • Burned: When you are subjected to an effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
+                      "‎‎ ",
+                      "‎ • Damned: All critical hits you suffer are considered normal hits."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Mud",
+                    "entries": [
+                      "‎ ",
+                      "Your body is covered in slime and foul sewage. In a grapple, you can use your reaction to escape.",
+                      "‎ ",
+                      "‎ • Tormented: Your layer of Mud protects you, granting you resistance to cold and fire damage.",
+                      "‎ ‎",
+                      "‎ • Burned: You gain proficiency in Dexterity saving throws.",
+                      "‎‎ ",
+                      "‎ • Damned: You gain a +1 bonus to AC and saving throws. In addition, because of your foul stench, every creature within 5 feet of you must make a DC 17 saving throw. On a failed save, the target is poisoned until the beginning of its next turn. On a successful save, the target is immune to your stench for 1 hour."
+                    ]
+                  },
                 ]
               }
             ]
@@ -792,7 +820,8 @@
                     "name": "Touch of Madness",
                     "entries": [
                       "‎ ",
-                      "A jester taints all those around them with their ominous madness, infecting them with the very same folly that affects the jester. You gain a new attack option which you can use with your Attack action. This special action is a melee attack. You are proficient with this attack and you can add your Charisma modifier to your attack and damage rolls. This attack deals psychic damage and its damage die is a d6.",
+                      "A jester taints all those around them with their ominous madness, infecting them with the very same folly that affects the jester.",
+                      "You gain a new attack option which you can use with your Attack action. This special action is a melee attack. You are proficient with this attack and you can add your Charisma modifier to your attack and damage rolls. This attack deals psychic damage and its damage die is a d6.",
                       "‎ ",
                       "‎ • Tormented:  You gain a +1 bonus to attack and damage rolls you make using your Touch of Madness.",
                       "‎ ‎",
@@ -806,7 +835,8 @@
                     "name": "Jester Bells",
                     "entries": [
                       "‎ ",
-                      "The numerous bells hanging from your semblance are considered an instrument, and grant you a special Distracting Aura. In addition, when you cast a spell that includes a verbal component, you can replace it with a somatic component. Your Distracting Aura works like this. You and every creature within 30 feet of you have disadvantage on Wisdom (Perception) checks that rely on hearing and Dexterity (Stealth) checks.",
+                      "The numerous bells hanging from your semblance are considered an instrument, and grant you a special Distracting Aura. In addition, when you cast a spell that includes a verbal component, you can replace it with a somatic component.",
+                      "Distracting Aura: You and every creature within 30 feet of you have disadvantage on Wisdom (Perception) checks that rely on hearing and Dexterity (Stealth) checks.",
                       "‎ ",
                       "‎ • Tormented:  When you target a creature with a spell and that creature is within your Distracting Aura, you can choose to add your Touch of Madness damage in addition to the normal effect of the spell.",
                       "‎ ‎",
