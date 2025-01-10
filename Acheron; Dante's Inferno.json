@@ -9,7 +9,7 @@
         "authors": [
           "Acheron"
         ],
-        "color": "560707",
+        "color": 560707,
         "convertedBy": [
           "Fratepietro"
         ]
@@ -201,19 +201,19 @@
                 "name": "Inferno, Canto VIII, 46-54",
                 "entries": [
                   "‎ ",
-                  "That was an arrogant person in the world;",
-                  "goodness is none, that decks his memory;",
-                  "so likewise here his shade is furious.",
+                  "{@i That was an arrogant person in the world;}",
+                  "{@i goodness is none, that decks his memory;}",
+                  "{@i so likewise here his shade is furious.}",
                   "‎ ",
-                  "'How many are esteemed great kings up there,",
-                  "who here shall be like unto swine in mire,",
-                  "leaving behind them horrible dispraises!'",
+                  "{@i 'How many are esteemed great kings up there,}",
+                  "{@i who here shall be like unto swine in mire,}",
+                  "{@i leaving behind them horrible dispraises!'}",
                   "‎ ",
-                  "And I: 'My Master, much should I be pleased,",
-                  "if I could see him soused into this broth,",
-                  "before we issue forth out of the lake.'",
+                  "{@i And I: 'My Master, much should I be pleased,}",
+                  "{@i if I could see him soused into this broth,}",
+                  "{@i before we issue forth out of the lake.'}",
                   "‎ ",
-                  "‎Dante Alighieri, 1314"
+                  "‎{@b Dante Alighieri, 1314}"
                 ]
               },
               {
@@ -786,14 +786,14 @@
                 "entries": [
                   "‎ ",
                   "{@i Behind them was the forest full of black}",
-                  "she-mastiffs, ravenous, and swift of foot",
-                  "as greyhounds, who are issuing from the chain",
+                  "{@i she-mastiffs, ravenous, and swift of foot}",
+                  "{@i as greyhounds, who are issuing from the chain}",
                   "‎ ",
-                  "On him who had crouched down they set their teeth,",
-                  "and him they lacerated piece by piece,",
-                  "thereafter bore away those aching members.",
+                  "{@i On him who had crouched down they set their teeth,}",
+                  "{@i and him they lacerated piece by piece,}",
+                  "{@i thereafter bore away those aching members.}",
                   "‎ ",
-                  "‎Dante Alighieri, 1314"
+                  "‎{@b Dante Alighieri, 1314}"
                 ]
               },
               {
@@ -1320,15 +1320,15 @@
                 "name": "Inferno, Canto XXIII, 61-66",
                 "entries": [
                   "‎ ",
-                  "They had on mantles with the hoods low down",
-                  "before their eyes, and fashioned of the cut",
-                  "that in Cologne they for the monks are made.",
+                  "{@i They had on mantles with the hoods low down}",
+                  "{@i before their eyes, and fashioned of the cut}",
+                  "{@i that in Cologne they for the monks are made.}",
                   "‎ ",
-                  "Without, they gilded are so that it dazzles;",
-                  "but inwardly all leaden and so heavy",
-                  "that Frederick used to put them on of straw",
+                  "{@i Without, they gilded are so that it dazzles;}",
+                  "{@i but inwardly all leaden and so heavy}",
+                  "{@i that Frederick used to put them on of straw}",
                   "‎ ",
-                  "‎Dante Alighieri, 1314"
+                  "‎{@b Dante Alighieri, 1314}"
                 ]
               },
               {
