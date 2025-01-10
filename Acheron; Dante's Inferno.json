@@ -2295,8 +2295,7 @@
         "At 14th level, when you take damage that would reduce you to 0 hit points against your will, you can use your reaction to transform yourself into one of your beast shapes, which will take the highest possible amount of triggering damage without expending a use of your Wild Shape feature. In addition, you select a type of damage among those dealt by the spells in your list of prepared spells. When you transform yourself, any creatures of your choice within 30 feet of you take damage of that type equal to 2d8 + your Wisdom modifier.",
 	      "Once you use this feature, you can't use it again until you finish a long rest."
       ]
-    },
-	  
+    }	  
   ],
   "race": [
     {
