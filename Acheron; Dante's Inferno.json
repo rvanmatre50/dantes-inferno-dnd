@@ -1185,89 +1185,89 @@
         "5"
       ],
       "classSpells": [
-          "Guidance",
-          "Light",
-          "Mending",
-          "Resistance",
-          "Sacred Flame",
-          "Spare the Dying",
-          "Thaumaturgy",
-          "Bane",
-          "Bless",
-          "Command",
-          "Cure Wounds",
-          "Guiding Bolt",
-          "Detect Evil and Good",
-          "Detect Magic",
-          "Inflict Wounds",
-          "Healing Word",
-          "Protection from Evil and Good",
-          "Sanctuary",
-          "Shield of Faith",
-          "Aid",
-          "Augury",
-          "Blindness/Deafness",
-          "Calm Emotions",
-          "Continual Flame",
-          "Enhance Ability",
-          "Find Traps",
-          "Gentle Repose",
-          "Hold Person",
-          "Lesser Restoration",
-          "Locate Object",
-          "Prayer of Healing",
-          "Protection From Posion",
-          "Silence",
-          "Spiritual Weapon",
-          "Warding Bond",
-          "Zone of Truth",
-          "Beacon of Hope",
-          "Bestow Curse",
-          "Clairvoyance",
-          "Daylight",
-          "Dispel Magic",
-          "Glyph of Warding",
-          "Magic Circle",
-          "Mass Healing Word",
-          "Meld Into Stone",
-          "Protection From Energy",
-          "Remove Curse",
-          "Spirit Guardians",
-          "Water Walk",
-          "Death Ward",
-          "Divination",
-          "Freedom of Movement",
-          "Guardian of Faith",
-          "Locate Creature",
-          "Stone Shape",
-          "Commune",
-          "Contagion",
-          "Dispel Evil and Good",
-          "Flame Strike",
-          "Geas",
-          "Greater Restoration",
-          "Hallow",
-          "Insect Plague",
-          "Legend Lore",
-          "Mass Cure Wounds",
-          "Scrying",
-          "Blade Barrier",
-          "Find the Path",
-          "Forbiddance",
-          "Harm",
-          "Heal",
-          "True Seeing",
-          "Word of Recall",
-          "Divine Word",
-          "Fire Storm",
-          "Regenerate",
-          "Symbol",
-          "Antimagic Field",
-          "Control Weather",
-          "Earthquake",
-          "Holy Aura",
-          "Mass Heal"
-      ], 
+        "Guidance",
+        "Light",
+        "Mending",
+        "Resistance",
+        "Sacred Flame",
+        "Spare the Dying",
+        "Thaumaturgy",
+        "Bane",
+        "Bless",
+        "Command",
+        "Cure Wounds",
+        "Guiding Bolt",
+        "Detect Evil and Good",
+        "Detect Magic",
+        "Inflict Wounds",
+        "Healing Word",
+        "Protection from Evil and Good",
+        "Sanctuary",
+        "Shield of Faith",
+        "Aid",
+        "Augury",
+        "Blindness/Deafness",
+        "Calm Emotions",
+        "Continual Flame",
+        "Enhance Ability",
+        "Find Traps",
+        "Gentle Repose",
+        "Hold Person",
+        "Lesser Restoration",
+        "Locate Object",
+        "Prayer of Healing",
+        "Protection From Posion",
+        "Silence",
+        "Spiritual Weapon",
+        "Warding Bond",
+        "Zone of Truth",
+        "Beacon of Hope",
+        "Bestow Curse",
+        "Clairvoyance",
+        "Daylight",
+        "Dispel Magic",
+        "Glyph of Warding",
+        "Magic Circle",
+        "Mass Healing Word",
+        "Meld Into Stone",
+        "Protection From Energy",
+        "Remove Curse",
+        "Spirit Guardians",
+        "Water Walk",
+        "Death Ward",
+        "Divination",
+        "Freedom of Movement",
+        "Guardian of Faith",
+        "Locate Creature",
+        "Stone Shape",
+        "Commune",
+        "Contagion",
+        "Dispel Evil and Good",
+        "Flame Strike",
+        "Geas",
+        "Greater Restoration",
+        "Hallow",
+        "Insect Plague",
+        "Legend Lore",
+        "Mass Cure Wounds",
+        "Scrying",
+        "Blade Barrier",
+        "Find the Path",
+        "Forbiddance",
+        "Harm",
+        "Heal",
+        "True Seeing",
+        "Word of Recall",
+        "Divine Word",
+        "Fire Storm",
+        "Regenerate",
+        "Symbol",
+        "Antimagic Field",
+        "Control Weather",
+        "Earthquake",
+        "Holy Aura",
+        "Mass Heal"
+      ],
       "classFeatures": [
         "Embracing Your Sin|The Lost Cleric|DantesInferno|1|DantesInferno",
         "Spellcasting|Cleric|PHB|1|PHB",
@@ -1416,8 +1416,8 @@
       "startingProficiencies": {
         "armor": [
           "light",
-	"medium",
-	"shields"
+          "medium",
+          "shields"
         ],
         "weapons": [
           "club",
@@ -1425,31 +1425,31 @@
           "darts",
           "javelin",
           "mace",
-	"quarterstaff",
-	"scimitar",
-	"sickle",
-	"sling",
-	"spear"
+          "quarterstaff",
+          "scimitar",
+          "sickle",
+          "sling",
+          "spear"
         ],
         "tools": [
           "herbalism kit"
         ],
         "skills": [
           {
-		  "choose": {
-			  "from": [
-				  "arcana",
-				  "animal handling",
-				  "insight",
-				  "medicine",
-				  "nature",
-				  "perception",
-				  "religion",
-				  "survival"
-			  ],
-			  "count": 2
-		  }
-	  }
+            "choose": {
+              "from": [
+                "arcana",
+                "animal handling",
+                "insight",
+                "medicine",
+                "nature",
+                "perception",
+                "religion",
+                "survival"
+              ],
+              "count": 2
+            }
+          }
         ]
       },
       "classTableGroups": [
@@ -1738,105 +1738,105 @@
       ],
       "classSpells": [
         "Druidcraft",
-	      "Guidance",
-	      "Mending",
-	      "Poison Spray",
-	      "Produce Flame",
-	      "Resistance",
-	      "Shillelagh",
-	      "Charm Person",
-	      "Detect Magic",
-	      "Entangle",
-	      "Faerie Fire",
-	      "Fog Cloud",
-	      "Goodberry",
-	      "Healing Word",
-	      "Jump",
-	      "Longstrider",
-	      "Thunderwave",
-	      "Barkskin",
-	      "Darkvision",
-	      "Enhance Ability",
-	      "Find Traps",
-	      "Flame Blade",
-	      "Flaming Sphere",
-	      "Gust of Wind",
-	      "Heat Metal",
-	      "Hold Person",
-	      "Lesser Restoration",
-	      "Locate Object",
-	      "Moonbeam",
-	      "Pass Without Trace",
-	      "Protection From Poison",
-	      "Spike Growth",
-	      "Call Lightning",
-	      "Daylight",
-	      "Dispel Magic",
-	      "Meld Into Stone",
-	      "Plant Growth",
-	      "Protection From Energy",
-	      "Sleet Storm",
-	      "Water Walk",
-	      "Wind Wall",
-	      "Blight",
-	      "Confusion",
-	      "Freedom of Movement",
-	      "Giant Insect",
-	      "Hallucinatory Terrain",
-	      "Ice Storm",
-	      "Locate Creature",
-	      "Stone Shape",
-	      "Stoneskin",
-	      "Wall of Fire",
-	      "Antilife Shell",
-	      "Awaken",
-	      "Commune With Nature",
-	      "Contagion",
-	      "Geas",
-	      "Greater Retoration",
-	      "Insect Plague",
-	      "Mass Cure Wounds",
-	      "Scrying",
-	      "Wall of Stone",
-	      "Find the Path",
-	      "Heal",
-	      "Move Earth",
-	      "Sunbeam",
-	      "Wall of Thorns",
-	      "Fire Storm",
-	      "Mirage Arcane",
-	      "Regenerate",
-	      "Reverse Gravity",
-	      "Animal Shapes",
-	      "Antipathy/Sympathy",
-	      "Control Weather",
-	      "Earthquake",
-	      "Feeblemind",
-	      "Sunburst",
-	      "Forsight",
-	      "Shapechange",
-	      "Storm of Vengeance"
+        "Guidance",
+        "Mending",
+        "Poison Spray",
+        "Produce Flame",
+        "Resistance",
+        "Shillelagh",
+        "Charm Person",
+        "Detect Magic",
+        "Entangle",
+        "Faerie Fire",
+        "Fog Cloud",
+        "Goodberry",
+        "Healing Word",
+        "Jump",
+        "Longstrider",
+        "Thunderwave",
+        "Barkskin",
+        "Darkvision",
+        "Enhance Ability",
+        "Find Traps",
+        "Flame Blade",
+        "Flaming Sphere",
+        "Gust of Wind",
+        "Heat Metal",
+        "Hold Person",
+        "Lesser Restoration",
+        "Locate Object",
+        "Moonbeam",
+        "Pass Without Trace",
+        "Protection From Poison",
+        "Spike Growth",
+        "Call Lightning",
+        "Daylight",
+        "Dispel Magic",
+        "Meld Into Stone",
+        "Plant Growth",
+        "Protection From Energy",
+        "Sleet Storm",
+        "Water Walk",
+        "Wind Wall",
+        "Blight",
+        "Confusion",
+        "Freedom of Movement",
+        "Giant Insect",
+        "Hallucinatory Terrain",
+        "Ice Storm",
+        "Locate Creature",
+        "Stone Shape",
+        "Stoneskin",
+        "Wall of Fire",
+        "Antilife Shell",
+        "Awaken",
+        "Commune With Nature",
+        "Contagion",
+        "Geas",
+        "Greater Retoration",
+        "Insect Plague",
+        "Mass Cure Wounds",
+        "Scrying",
+        "Wall of Stone",
+        "Find the Path",
+        "Heal",
+        "Move Earth",
+        "Sunbeam",
+        "Wall of Thorns",
+        "Fire Storm",
+        "Mirage Arcane",
+        "Regenerate",
+        "Reverse Gravity",
+        "Animal Shapes",
+        "Antipathy/Sympathy",
+        "Control Weather",
+        "Earthquake",
+        "Feeblemind",
+        "Sunburst",
+        "Forsight",
+        "Shapechange",
+        "Storm of Vengeance"
       ],
       "classFeatures": [
         "Embracing Your Sin|The Lost Druid|DantesInferno|1|DantesInferno",
-	      "Druidic|Druid|PHB|1|PHB",
-	      "Spellcasting|Druid|PHB|1|PHB",
-	      "Wild Shape|Druid|PHB|2|PHB",
-	      "Wild Reaction|The Lost Druid|DantesInferno|2|DantesInferno",
-	      "Guardian Shape|The Lost Druid|DantesInferno|2|DantesInferno",
-	      "Wild Shape Improvement|Druid|PHB|4|PHB",
-	      "Ability Score Improvement|Druid|PHB|4|PHB",
-	      "Strength of the Infernal Guardian|The Lost Druid|DantesInferno|6|DantesInferno",
-	      "Wild Shape Improvement|Druid|PHB|8|PHB",
-	      "Ability Score Improvement|Druid|PHB|8|PHB",
-	      "Retribution|The Lost Druid|DantesInferno|10|DantesInferno",
-	      "Ability Score Improvement|Druid|PHB|12|PHB",
-	      "Fury of the Wild Shape|The Lost Druid|DantesInferno|14|DantesInferno",
-	      "Ability Score Improvement|Druid|PHB|16|PHB",
-	      "Timeless Body|Druid|PHB|18|PHB",
-	      "Beast Spells|Druid|PHB|18|PHB",
-	      "Ability Score Improvement|Druid|PHB|19|PHB",
-	      "Archdruid|Druid|PHB|20|PHB"
+        "Druidic|Druid|PHB|1|PHB",
+        "Spellcasting|Druid|PHB|1|PHB",
+        "Wild Shape|Druid|PHB|2|PHB",
+        "Wild Reaction|The Lost Druid|DantesInferno|2|DantesInferno",
+        "Guardian Shape|The Lost Druid|DantesInferno|2|DantesInferno",
+        "Wild Shape Improvement|Druid|PHB|4|PHB",
+        "Ability Score Improvement|Druid|PHB|4|PHB",
+        "Strength of the Infernal Guardian|The Lost Druid|DantesInferno|6|DantesInferno",
+        "Wild Shape Improvement|Druid|PHB|8|PHB",
+        "Ability Score Improvement|Druid|PHB|8|PHB",
+        "Retribution|The Lost Druid|DantesInferno|10|DantesInferno",
+        "Ability Score Improvement|Druid|PHB|12|PHB",
+        "Fury of the Wild Shape|The Lost Druid|DantesInferno|14|DantesInferno",
+        "Ability Score Improvement|Druid|PHB|16|PHB",
+        "Timeless Body|Druid|PHB|18|PHB",
+        "Beast Spells|Druid|PHB|18|PHB",
+        "Ability Score Improvement|Druid|PHB|19|PHB",
+        "Archdruid|Druid|PHB|20|PHB"
       ],
       "hasFluff": true,
       "hasFluffImages": true,
@@ -1872,14 +1872,14 @@
                   "{@i 't is not enough, because they had not baptism,}",
                   "{@i which is the portal of the Faith thou holdest;}",
                   "‎ ",
-		"{@i and if they were before Christianity,}",
+                  "{@i and if they were before Christianity,}",
                   "{@i in the right manner they adored not God;}",
                   "{@i and mong such as these am I myself.}",
                   "‎ ",
                   "{@i For such defects, and not for other guilt,}",
                   "{@i lost are we, and are only so far punished,}",
                   "{@i that without hope we live on in desire.}",
-		"‎ ",
+                  "‎ ",
                   "‎{@b Dante Alighieri, 1314}"
                 ]
               },
@@ -1890,10 +1890,10 @@
                 "type": "section",
                 "entries": [
                   "Hell is not just the dwelling of sinners and the Lord’s enemies. All those who served False and Lying Deities, those who meant well but believed in their lies are also doomed to the kingdom of pain. Those who served erroneous beliefs or worshipped other ideals, whether by their own will or through deception, conscious choices or naïve delusion, will end up in Hell after their death. The First Circle, where the unbaptized lie, awaits them. Even in life, they will appear there as Pagans, forever marked by their own indelible mistakes.",
-		      "Maybe you were just born in a country or in a family where they worshipped another deity. Maybe you ignored the Lord’s creed to stick to other principles and theories, such a different cult, a philosophy, scientific rationalism, or agnosticism. Maybe you just lived in the wrong place or time.",
-		  "Your creed, your ideals, or your errors, whatever they might have been, cannot be justified, not even by ascribing them to ignorance. After your death, you will be sentenced to spend endless millennia in Limbo, lost in the mists of reason and the emptiness of flawed philosophies. No devils and no pain await you in Limbo, but you will find no love or solace, either. Only an eternity of restlessness. And yet, you and those like you might still find a place among the Spiriti Magni, behind the seven walls of the High Castle, at the trembling light of the Divine Flame shining in its halls.",
-		 "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and sinister shadow, an omen of what awaits you after your death, till the end of times, unless you atone and are redeemed. As a symbol of this fateful sin, your semblance displays the emblems of the ancient and fallacious myths, but only when you disavow them will you find redemption in the glory of Divine Love.",
-		      "Fear the First Circle, as it will be the hardest test you will have to face when you get there!"
+                  "Maybe you were just born in a country or in a family where they worshipped another deity. Maybe you ignored the Lord’s creed to stick to other principles and theories, such a different cult, a philosophy, scientific rationalism, or agnosticism. Maybe you just lived in the wrong place or time.",
+                  "Your creed, your ideals, or your errors, whatever they might have been, cannot be justified, not even by ascribing them to ignorance. After your death, you will be sentenced to spend endless millennia in Limbo, lost in the mists of reason and the emptiness of flawed philosophies. No devils and no pain await you in Limbo, but you will find no love or solace, either. Only an eternity of restlessness. And yet, you and those like you might still find a place among the Spiriti Magni, behind the seven walls of the High Castle, at the trembling light of the Divine Flame shining in its halls.",
+                  "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and sinister shadow, an omen of what awaits you after your death, till the end of times, unless you atone and are redeemed. As a symbol of this fateful sin, your semblance displays the emblems of the ancient and fallacious myths, but only when you disavow them will you find redemption in the glory of Divine Love.",
+                  "Fear the First Circle, as it will be the hardest test you will have to face when you get there!"
                 ]
               },
               {
@@ -1909,8 +1909,8 @@
                       "‎ ",
                       "Just like the notorious Pandora’s Box, you always carry with you a jar filled with the myths and beliefs that burden your faith and which you still can’t get rid of.",
                       "You can use an action to summon the ancient spirits bound to the jar. One or more spirits drawn from the epic lore of your culture answer your call and appear within 60 feet of you. The spirits disappear after 1 hour, or when they drop to 0 hit points. Once you use this feature, you can’t use it again until you finish a short or long rest",
-			    "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two scouts, or Tauromachia to summon a minotaur.",
-			    "{@i Amazonomachia:} You summon two amazons (or two warrior women from your culture), who use the scout stat block. The summoned creatures are friendly to you and your companions. Roll initiative for the Amazons, who have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the Amazons, they defend themselves from hostile creatures but otherwise take no actions.",
+                      "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two scouts, or Tauromachia to summon a minotaur.",
+                      "{@i Amazonomachia:} You summon two amazons (or two warrior women from your culture), who use the scout stat block. The summoned creatures are friendly to you and your companions. Roll initiative for the Amazons, who have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the Amazons, they defend themselves from hostile creatures but otherwise take no actions.",
                       "‎ ",
                       "‎ • {@b Tormented:} {@i Tauromachia:} You summon a minotaur, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎ ‎",
@@ -1940,15 +1940,15 @@
                     "entries": [
                       "‎ ",
                       "Although you have always lived in error, you have always behaved according to your personal values, a trait symbolized by the silvered robe enshrouding your semblance.",
-			 "While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.",
+                      "While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.",
                       "‎ ",
                       "‎ • {@b Tormented:}  When a monstrosity attacks you, that creature must make a Wisdom saving throw against your spell save DC. On a failed save, it must choose a different target, otherwise, the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours. The creature is aware of this effect before making its attack against you.",
                       "‎ ‎",
                       "‎ • {@b Burned:} When you fail an attack roll, an ability check, or a saving throw, you can use your reaction to invoke divine help. You can add your Wisdom modifier to your roll. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
                       "‎‎ ",
                       "‎ • {@b Damned:} You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
-		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest."
-		    ]
+                      "{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest."
+                    ]
                   }
                 ]
               }
@@ -2083,39 +2083,39 @@
         "A vicar’s life was a life of hypocrisy, falseness, vanity, and pride. A facade of strictness and devotion used to hide fear, doubts, bad habits, and deceptions. This led the vicar to Hell, and this is what sustains them in the Blind World... yet, it is a poisoned, hollow sustenance, and a vicar’s Journey has only one purpose: to get rid of this sin.",
         "You gain domain spells at the cleric levels listed in the Vicar Domain Spells table. See the Divine Domain Cleric class feature for how domain spells work.",
         {
-					"type": "table",
-					"caption": "Vicar Domain Spells",
-					"colLabels": [
-						"Cleric Level",
-						"Spells"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"1st",
-							"{@spell charm person}, {@spell silent image}"
-						],
-						[
-							"3rd",
-							"{@spell enthrall}, {@spell suggestion}"
-						],
-						[
-							"5th",
-							"{@spell fear}, {@spell hypnotic pattern}"
-						],
-						[
-							"7th",
-							"{@spell compulsion}, {@spell phantasmal killer}"
-						],
-						[
-							"9th",
-							"{@spell hold monster}, {@spell mislead}"
-						]
-					]
-				}
+          "type": "table",
+          "caption": "Vicar Domain Spells",
+          "colLabels": [
+            "Cleric Level",
+            "Spells"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "1st",
+              "{@spell charm person}, {@spell silent image}"
+            ],
+            [
+              "3rd",
+              "{@spell enthrall}, {@spell suggestion}"
+            ],
+            [
+              "5th",
+              "{@spell fear}, {@spell hypnotic pattern}"
+            ],
+            [
+              "7th",
+              "{@spell compulsion}, {@spell phantasmal killer}"
+            ],
+            [
+              "9th",
+              "{@spell hold monster}, {@spell mislead}"
+            ]
+          ]
+        }
       ]
     },
     {
@@ -2196,7 +2196,7 @@
         "At 17th level, you gain the ability to use your words to control the actions of those who hear them. When a creature is charmed by your Sermon feature, you can take a bonus action on your turn to verbally command each one of those creatures, deciding what they will do in their next turn."
       ]
     },
-	  {
+    {
       "name": "Embracing Your Sin",
       "source": "DantesInferno",
       "page": 45,
@@ -2207,7 +2207,7 @@
         "When you use your Wild Shape feature, you can spend 2 Hope Points to transform yourself without expending a use."
       ]
     },
-	  {
+    {
       "name": "Wild Reaction",
       "source": "DantesInferno",
       "page": 45,
@@ -2218,7 +2218,7 @@
         "You grew up as a feral beast and you react to any attack or aggression as a wild beast would. Starting at 2nd level, when you take damage against your will, you can use your reaction to use Wild Shape."
       ]
     },
-	  {
+    {
       "name": "Guardian Shape",
       "source": "DantesInferno",
       "page": 45,
@@ -2227,40 +2227,39 @@
       "level": 2,
       "entries": [
         "The rites of your circle grant you the ability to transform into more dangerous animal shapes, embodying the mythic forces who inhabit Hell. Starting at 2nd level, you gain additional beast shapes as listed in the following table.",
-	      {
-		      "type": "table",
-		      "caption": "Guardian Shapes",
-					"colLabels": [
-						"Druid Level",
-						"Guardian Shape"
-					],
-					"colStyles": [
-						"col-2 text-center",
-						"col-10"
-					],
-					"rows": [
-						[
-							"2nd",
-							"{@monster Dark Forest Panther}"
-						],
-						[
-							"6th",
-							"{@monster Minotaur}"
-						],
-						[
-							"10th",
-							"{@monster Fury}"
-						],
-						[
-							"14th",
-							"{@monster Medusa}"
-						]
-					]
-				}
-		      
+        {
+          "type": "table",
+          "caption": "Guardian Shapes",
+          "colLabels": [
+            "Druid Level",
+            "Guardian Shape"
+          ],
+          "colStyles": [
+            "col-2 text-center",
+            "col-10"
+          ],
+          "rows": [
+            [
+              "2nd",
+              "{@monster Dark Forest Panther}"
+            ],
+            [
+              "6th",
+              "{@monster Minotaur}"
+            ],
+            [
+              "10th",
+              "{@monster Fury}"
+            ],
+            [
+              "14th",
+              "{@monster Medusa}"
+            ]
+          ]
+        }
       ]
     },
-	  {
+    {
       "name": "Strength of the Infernal Guardian",
       "source": "DantesInferno",
       "page": 45,
@@ -2269,11 +2268,11 @@
       "level": 6,
       "entries": [
         "Starting at 6th level, you are infused with grim visions of the kingdom of pain and you gain strength from those visions. All of your Wild Shapes gain the following benefits:",
-	      " • Your shape has more hit points than normal: you gain extra hit points equal to 5 + 2 hit points per pagan level.",
-	      " • You can use your spell DC instead of the special features and Actions DC listed in any of your beast shape’s stat blocks."
+        " • Your shape has more hit points than normal: you gain extra hit points equal to 5 + 2 hit points per pagan level.",
+        " • You can use your spell DC instead of the special features and Actions DC listed in any of your beast shape’s stat blocks."
       ]
     },
-	  {
+    {
       "name": "Retribution",
       "source": "DantesInferno",
       "page": 45,
@@ -2284,7 +2283,7 @@
         "Starting at 10th level, while you are in Wild Shape, if you hit a creature with a melee weapon attack, you can expend a spell slot to cause the attack to deal extra damage of the same type dealt by the weapon to the target. The extra damage is 1d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8."
       ]
     },
-	  {
+    {
       "name": "Fury of the Wild Shape",
       "source": "DantesInferno",
       "page": 45,
@@ -2293,9 +2292,9 @@
       "level": 14,
       "entries": [
         "At 14th level, when you take damage that would reduce you to 0 hit points against your will, you can use your reaction to transform yourself into one of your beast shapes, which will take the highest possible amount of triggering damage without expending a use of your Wild Shape feature. In addition, you select a type of damage among those dealt by the spells in your list of prepared spells. When you transform yourself, any creatures of your choice within 30 feet of you take damage of that type equal to 2d8 + your Wisdom modifier.",
-	      "Once you use this feature, you can't use it again until you finish a long rest."
+        "Once you use this feature, you can't use it again until you finish a long rest."
       ]
-    }	  
+    }
   ],
   "race": [
     {
