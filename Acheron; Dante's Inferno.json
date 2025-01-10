@@ -244,11 +244,11 @@
                       "The beast holds an oversized bloodied ominous weapon, the symbol of their unending wrath.",
                       "A beast's Brutal Weapon is considered a magic weapon. It deal 1d12 bludgeoning damage and has the two handed property. In addition, when you rage and score a critical hit with your Brutal Weapon, you can roll an additional die when determining the extra damage from the critical hit. The additional die varies according to you Rage Damage: +2 adds 1d4, +3 adds 1d6, +4 adds 1d8.",
                       "‎ ",
-                      "‎ • Tormented: You gain a +1 bonus to attack rolls and to damage rolls you make with your Brutal Weapon. In addition, your Brutal Weapon gains the reach property.",
+                      "‎ • {@b Tormented:} You gain a +1 bonus to attack rolls and to damage rolls you make with your Brutal Weapon. In addition, your Brutal Weapon gains the reach property.",
                       "‎ ‎",
-                      "‎ • Burned: Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +2. In addition, your Brutal Weapon gains the thrown property with a normal range of 20 feet and a long range of 60 feet. If the beast throws the Brutal Weapon to perform a ranged attack, whether they hit or miss their target, the weapon flies back into the beast’s open hand at the end of their current turn.",
+                      "‎ • {@b Burned:} Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +2. In addition, your Brutal Weapon gains the thrown property with a normal range of 20 feet and a long range of 60 feet. If the beast throws the Brutal Weapon to perform a ranged attack, whether they hit or miss their target, the weapon flies back into the beast’s open hand at the end of their current turn.",
                       "‎‎ ",
-                      "‎ • Damned: Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +3. In addition, once per turn, when rolling for damage with your Brutal Weapon, you can reroll your weapon’s damage and choose which one to use."
+                      "‎ • {@b Damned:} Your bonus to attack rolls and damage rolls you make with your Brutal Weapon increases to +3. In addition, once per turn, when rolling for damage with your Brutal Weapon, you can reroll your weapon’s damage and choose which one to use."
                     ]
                   },
                   {
@@ -258,11 +258,11 @@
                       "‎ ",
                       "A beast is a being unable to restrain themselves, ruled by passions, instincts and feelings. You gain resistance to nonmagical damage.",
                       "‎ ",
-                      "‎ • Tormented: Your Strength or Constitution score increases by 2, along with the maximum you can increase that score to.",
+                      "‎ • {@b Tormented:} Your Strength or Constitution score increases by 2, along with the maximum you can increase that score to.",
                       "‎ ‎",
-                      "‎ • Burned: When you are subjected to an effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
+                      "‎ • {@b Burned:} When you are subjected to an effect that allows you to make a Strength or Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.",
                       "‎‎ ",
-                      "‎ • Damned: All critical hits you suffer are considered normal hits."
+                      "‎ • {@b Damned:} All critical hits you suffer are considered normal hits."
                     ]
                   },
                   {
@@ -272,11 +272,11 @@
                       "‎ ",
                       "Your body is covered in slime and foul sewage. In a grapple, you can use your reaction to escape.",
                       "‎ ",
-                      "‎ • Tormented: Your layer of Mud protects you, granting you resistance to cold and fire damage.",
+                      "‎ • {@b Tormented:} Your layer of Mud protects you, granting you resistance to cold and fire damage.",
                       "‎ ‎",
-                      "‎ • Burned: You gain proficiency in Dexterity saving throws.",
+                      "‎ • {@b Burned:} You gain proficiency in Dexterity saving throws.",
                       "‎‎ ",
-                      "‎ • Damned: You gain a +1 bonus to AC and saving throws. In addition, because of your foul stench, every creature within 5 feet of you must make a DC 17 saving throw. On a failed save, the target is poisoned until the beginning of its next turn. On a successful save, the target is immune to your stench for 1 hour."
+                      "‎ • {@b Damned:} You gain a +1 bonus to AC and saving throws. In addition, because of your foul stench, every creature within 5 feet of you must make a DC 17 saving throw. On a failed save, the target is poisoned until the beginning of its next turn. On a successful save, the target is immune to your stench for 1 hour."
                     ]
                   }
                 ]
@@ -823,11 +823,11 @@
                       "A jester taints all those around them with their ominous madness, infecting them with the very same folly that affects the jester.",
                       "You gain a new attack option which you can use with your Attack action. This special action is a melee attack. You are proficient with this attack and you can add your Charisma modifier to your attack and damage rolls. This attack deals psychic damage and its damage die is a d6.",
                       "‎ ",
-                      "‎ • Tormented:  You gain a +1 bonus to attack and damage rolls you make using your Touch of Madness.",
+                      "‎ • {@b Tormented:}  You gain a +1 bonus to attack and damage rolls you make using your Touch of Madness.",
                       "‎ ‎",
-                      "‎ • Burned: The bonus to attack and damage rolls you make using your Touch of Madness increases to +2. In addition, the psychic damage you deal increases to 2d6.",
+                      "‎ • {@b Burned:} The bonus to attack and damage rolls you make using your Touch of Madness increases to +2. In addition, the psychic damage you deal increases to 2d6.",
                       "‎‎ ",
-                      "‎ • Damned: The bonus to attack and damage rolls you make using your Touch of Madness increases to +3. In addition, the psychic damage you deal increases to 3d6."
+                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make using your Touch of Madness increases to +3. In addition, the psychic damage you deal increases to 3d6."
                     ]
                   },
                   {
@@ -838,11 +838,11 @@
                       "The numerous bells hanging from your semblance are considered an instrument, and grant you a special Distracting Aura. In addition, when you cast a spell that includes a verbal component, you can replace it with a somatic component.",
                       "Distracting Aura: You and every creature within 30 feet of you have disadvantage on Wisdom (Perception) checks that rely on hearing and Dexterity (Stealth) checks.",
                       "‎ ",
-                      "‎ • Tormented:  When you target a creature with a spell and that creature is within your Distracting Aura, you can choose to add your Touch of Madness damage in addition to the normal effect of the spell.",
+                      "‎ • {@b Tormented:}  When you target a creature with a spell and that creature is within your Distracting Aura, you can choose to add your Touch of Madness damage in addition to the normal effect of the spell.",
                       "‎ ‎",
-                      "‎ • Burned: You can use an action to deal your Touch of Madness damage to every creature within your Distracting Aura. You are also affected by this effect. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
+                      "‎ • {@b Burned:} You can use an action to deal your Touch of Madness damage to every creature within your Distracting Aura. You are also affected by this effect. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
                       "‎‎ ",
-                      "‎ • Damned: When you use Wave of Madness, you can spend a spell slot to deal extra psychic damage to your targets, in addition to your Wave of Madness damage. The extra damage is equal to 1d6 for a 1st level spell slot, plus 1d6 for each spell level higher than 1st, to a maximum of 9d6."
+                      "‎ • {@b Damned:} When you use Wave of Madness, you can spend a spell slot to deal extra psychic damage to your targets, in addition to your Wave of Madness damage. The extra damage is equal to 1d6 for a 1st level spell slot, plus 1d6 for each spell level higher than 1st, to a maximum of 9d6."
                     ]
                   },
                   {
@@ -852,11 +852,11 @@
                       "‎ ",
                       "A grinning mask hides a Jester’s face. An outer semblance concealing their inner semblance. While you are wearing no armor and not wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.",
                       "‎ ",
-                      "‎ • Tormented:  You gain a +1 bonus to your AC and saving throws.",
+                      "‎ • {@b Tormented:}  You gain a +1 bonus to your AC and saving throws.",
                       "‎ ‎",
-                      "‎ • Burned: You can use an action to cast a 5th level version of the confusion spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎ • {@b Burned:} You can use an action to cast a 5th level version of the confusion spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
                       "‎‎ ",
-                      "‎ • Damned: When you succeed on a saving throw against any spell that targets only you (not an area of effect), you can use your reaction to reflect that spell. The spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster. Once you use this feature, you can’t use it again until you finish a long rest."
+                      "‎ • {@b Damned:} When you succeed on a saving throw against any spell that targets only you (not an area of effect), you can use your reaction to reflect that spell. The spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster. Once you use this feature, you can’t use it again until you finish a long rest."
                     ]
                   }
                 ]
@@ -1358,11 +1358,11 @@
                       "‎ ",
                       "The heavy garment enshrouding your semblance looks like a golden cloak, but it is actually made of lead. It is uncomfortable, heavy, and encumbering. The Cloak of Hypocrisy acts as a suit of magic armor. Its wearer has AC 16 and disadvantage on Dexterity (Stealth) checks. The cloak doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.",
                       "‎ ",
-                      "‎ • Tormented: You no longer make your Dexterity (Stealth) checks with disadvantage because of your Cloak of Hypocrisy. In addition, you gain a +1 bonus to your saving throws",
+                      "‎ • {@b Tormented:} You no longer make your Dexterity (Stealth) checks with disadvantage because of your Cloak of Hypocrisy. In addition, you gain a +1 bonus to your saving throws",
                       "‎ ‎",
-                      "‎ • Burned: Your Cloak of Hypocrisy grants you AC 17. In addition, you gain a +1 bonus on your attack rolls with your spells and to your spells’ save DC.",
+                      "‎ • {@b Burned:} Your Cloak of Hypocrisy grants you AC 17. In addition, you gain a +1 bonus on your attack rolls with your spells and to your spells’ save DC.",
                       "‎‎ ",
-                      "‎ • Damned:  Your Cloak of Hypocrisy grants you AC 18. In addition, when you are hit by a melee attack, you can use your reaction to cast the holy aura spell (spell save DC 17). This spell only affects you. Once you use this feature, you can’t use it again until you finish a long rest."
+                      "‎ • {@b Damned:}  Your Cloak of Hypocrisy grants you AC 18. In addition, when you are hit by a melee attack, you can use your reaction to cast the holy aura spell (spell save DC 17). This spell only affects you. Once you use this feature, you can’t use it again until you finish a long rest."
                     ]
                   },
                   {
@@ -1373,11 +1373,11 @@
                       "This light source tries to mimic the torches and flames irradiating a Divine Flame, but its fire is vacuous and it transmits no hope, only a pale imitation of the heavenly light.",
                       "The Torch of Vanity is a magic mace. In addition, when you hit with an attack you made with the Torch of Vanity or when you deal damage with any cantrip, the target takes 1d4 extra radiant damage.",
                       "‎ ",
-                      "‎ • Tormented: You gain a +1 bonus to attack and damage rolls you make with your Torch of Vanity.",
+                      "‎ • {@b Tormented:} You gain a +1 bonus to attack and damage rolls you make with your Torch of Vanity.",
                       "‎ ‎",
-                      "‎ • Burned: The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +2. In addition, your extra radiant damage increases to 2d4.",
+                      "‎ • {@b Burned:} The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +2. In addition, your extra radiant damage increases to 2d4.",
                       "‎‎ ",
-                      "‎ • Damned:  The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +3. In addition, your extra radiant damage increases to 3d4."
+                      "‎ • {@b Damned:}  The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +3. In addition, your extra radiant damage increases to 3d4."
                     ]
                   },
                   {
@@ -1387,11 +1387,11 @@
                       "‎ ",
                       "In spite of your hypocrisy, you were a person of faith and strictness, and your orations and prayers could stir even the most cynical soul. You haven’t lost your touch in Hell. You wear a necklace with a token symbolizing the Lord. You can use that token as a holy symbol. In addition, you can use an action to cast the command spell (spell save DC 14). You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
                       "‎ ",
-                      "‎ • Tormented: You can use an action to cast the compulsion spell (spell save DC 15). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎ • {@b Tormented:} You can use an action to cast the compulsion spell (spell save DC 15). Once you use this feature, you can’t use it again until you finish a long rest.",
                       "‎ ‎",
-                      "‎ • Burned: You can use an action to cast the irresistible dance spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎ • {@b Burned:} You can use an action to cast the irresistible dance spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
                       "‎‎ ",
-                      "‎ • Damned: You can use an action to cast the power word stun spell (spell save DC 17). Once you use this feature, you can’t use it again until you finish a long rest."
+                      "‎ • {@b Damned:} You can use an action to cast the power word stun spell (spell save DC 17). Once you use this feature, you can’t use it again until you finish a long rest."
                     ]
                   }
                 ]
@@ -1818,20 +1818,20 @@
 	      "Storm of Vengeance"
       ],
       "classFeatures": [
-        "Embracing Your Sin|The Lost Druid|DI|1|DI",
+        "Embracing Your Sin|The Lost Druid|DantesInferno|1|DantesInferno",
 	      "Druidic|Druid|PHB|1|PHB",
 	      "Spellcasting|Druid|PHB|1|PHB",
 	      "Wild Shape|Druid|PHB|2|PHB",
-	      "Wild Reaction|The Lost Druid|DI|2|DI",
-	      "Guardian Shape|The Lost Druid|DI|2|DI",
+	      "Wild Reaction|The Lost Druid|DantesInferno|2|DantesInferno",
+	      "Guardian Shape|The Lost Druid|DantesInferno|2|DantesInferno",
 	      "Wild Shape Improvement|Druid|PHB|4|PHB",
 	      "Ability Score Improvement|Druid|PHB|4|PHB",
 	      "Strength of the Infernal Guardian|The Lost Druid|PHB|6|PHB",
 	      "Wild Shape Improvement|Druid|PHB|8|PHB",
 	      "Ability Score Improvement|Druid|PHB|8|PHB",
-	      "Retribution|The Lost Druid|DI|10|DI",
+	      "Retribution|The Lost Druid|DantesInferno|10|DantesInferno",
 	      "Ability Score Improvement|Druid|PHB|12|PHB",
-	      "Fury of the Wild Shape|The Lost Druid|DI|14|DI",
+	      "Fury of the Wild Shape|The Lost Druid|DantesInferno|14|DantesInferno",
 	      "Ability Score Improvement|Druid|PHB|16|PHB",
 	      "Timeless Body|Druid|PHB|18|PHB",
 	      "Beast Spells|Druid|PHB|18|PHB",
@@ -1912,11 +1912,11 @@
 			    "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two scouts, or Tauromachia to summon a minotaur.",
 			    "{@i Amazonomachia:} You summon two amazons (or two warrior women from your culture), who use the scout stat block. The summoned creatures are friendly to you and your companions. Roll initiative for the Amazons, who have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the Amazons, they defend themselves from hostile creatures but otherwise take no actions.",
                       "‎ ",
-                      "‎ • Tormented: {@i Tauromachia:} You summon a minotaur, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Tormented:} {@i Tauromachia:} You summon a minotaur, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎ ‎",
-                      "‎ • Burned: {@i Centauromachia:} You summon an infernal centaur, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Burned:} {@i Centauromachia:} You summon an infernal centaur, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎‎ ",
-                      "‎ • Damned: {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions."
+                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions."
                     ]
                   },
                   {
@@ -1927,11 +1927,11 @@
                       "This pastoral staff is a symbol of the holy traditions observed by the pagan’s culture, the system of cults and hieratic elements in which the pagan has always believed. The Crosier is a magic quarterstaff. You can use it as a spell focus for your druid spells.",
                       "In addition, your attacks in beast shape count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.",
                       "‎ ",
-                      "‎ • Tormented:  You gain a +1 bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape.",
+                      "‎ • {@b Tormented:}  You gain a +1 bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape.",
                       "‎ ‎",
-                      "‎ • Burned: The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +2.",
+                      "‎ • {@b Burned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +2.",
                       "‎‎ ",
-                      "‎ • Damned: The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +3."
+                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +3."
                     ]
                   },
                   {
@@ -1942,11 +1942,11 @@
                       "Although you have always lived in error, you have always behaved according to your personal values, a trait symbolized by the silvered robe enshrouding your semblance.",
 			 "While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.",
                       "‎ ",
-                      "‎ • Tormented:  When a monstrosity attacks you, that creature must make a Wisdom saving throw against your spell save DC. On a failed save, it must choose a different target, otherwise, the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours. The creature is aware of this effect before making its attack against you.",
+                      "‎ • {@b Tormented:}  When a monstrosity attacks you, that creature must make a Wisdom saving throw against your spell save DC. On a failed save, it must choose a different target, otherwise, the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours. The creature is aware of this effect before making its attack against you.",
                       "‎ ‎",
-                      "‎ • Burned: When you fail an attack roll, an ability check, or a saving throw, you can use your reaction to invoke divine help. You can add your Wisdom modifier to your roll. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
+                      "‎ • {@b Burned:} When you fail an attack roll, an ability check, or a saving throw, you can use your reaction to invoke divine help. You can add your Wisdom modifier to your roll. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
                       "‎‎ ",
-                      "‎ • Damned: You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
+                      "‎ • {@b Damned:} You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
 		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest."
                     ]
                   }
