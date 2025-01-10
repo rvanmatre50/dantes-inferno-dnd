@@ -1436,7 +1436,7 @@
         ],
         "skills": [
           {
-		  "choice": {
+		  "choose": {
 			  "from": [
 				  "arcana",
 				  "animal handling",
