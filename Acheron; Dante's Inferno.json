@@ -1884,7 +1884,7 @@
                 ]
               },
               {
-                "name": "Overview of the Jester:",
+                "name": "Overview of the Pagan:",
                 "source": "DantesInferno",
                 "page": 41,
                 "type": "section",
@@ -1916,7 +1916,8 @@
                       "‎ ‎",
                       "‎ • {@b Burned:} {@i Centauromachia:} You summon an infernal centaur, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions."
+                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions.",
+			    "‎‎ "
                     ]
                   },
                   {
@@ -1931,7 +1932,8 @@
                       "‎ ‎",
                       "‎ • {@b Burned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +2.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +3."
+                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +3.",
+			    "‎‎ "
                     ]
                   },
                   {
@@ -1947,7 +1949,8 @@
                       "‎ • {@b Burned:} When you fail an attack roll, an ability check, or a saving throw, you can use your reaction to invoke divine help. You can add your Wisdom modifier to your roll. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
                       "‎‎ ",
                       "‎ • {@b Damned:} You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
-		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest."
+		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest.",
+			    "‎‎ "
                     ]
                   }
                 ]
