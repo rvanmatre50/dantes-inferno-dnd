@@ -785,7 +785,7 @@
                 "name": "Inferno, Canto XIII, 124-129",
                 "entries": [
                   "‎ ",
-                  "Behind them was the forest full of black",
+                  "{@i Behind them was the forest full of black}",
                   "she-mastiffs, ravenous, and swift of foot",
                   "as greyhounds, who are issuing from the chain",
                   "‎ ",
@@ -1502,7 +1502,7 @@
       "classSource": "DI",
       "level": 6,
       "entries": [
-        "Starting at 6th level, you can cast the spell hideous laughter without expending a spell slot. Once you cast hideous laughter in this way a number of times equal to your proficiency bonus, you can't do so again until you finish a long rest, though you can still cast it normally using an available spell slot. You regain any expended usus when you finish a long rest. In addition, when you cast hideous laughter, you can spend one use of Bardic Inspiration to target with that spell every other creature within your Distracting Aura."
+        "Starting at 6th level, you can cast the spell {@spell hideous laughter} without expending a spell slot. Once you cast hideous laughter in this way a number of times equal to your proficiency bonus, you can't do so again until you finish a long rest, though you can still cast it normally using an available spell slot. You regain any expended usus when you finish a long rest. In addition, when you cast hideous laughter, you can spend one use of Bardic Inspiration to target with that spell every other creature within your Distracting Aura."
       ]
     },
     {
