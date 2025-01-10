@@ -3,7 +3,7 @@
     "sources": [
       {
         "json": "DantesInferno",
-        "abbreviation": "DI",
+        "abbreviation": "DantesInferno",
         "full": "Dante's Inferno",
         "version": "1.0.0",
         "authors": [
@@ -23,7 +23,7 @@
   "class": [
     {
       "name": "The Lost Barbarian",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 25,
       "hd": {
         "number": 1,
@@ -152,22 +152,22 @@
       "classFeatures": [
         "Rage|Barbarian|PHB|1|PHB",
         "Unarmored Defense|Barbarian|PHB|1|PHB",
-        "Embrace the Sin|The Lost Barbarian|DI|1|DI",
+        "Embrace the Sin|The Lost Barbarian|DantesInferno|1|DantesInferno",
         "Reckless Attack|Barbarian|PHB|2|PHB",
         "Danger Sense|Barbarian|PHB|2|PHB",
-        "Blinding Rage|The Lost Barbarian|DI|3|DI",
+        "Blinding Rage|The Lost Barbarian|DantesInferno|3|DantesInferno",
         "Ability Score Improvement|Barbarian|PHB|4|PHB",
         "Extra Attack|Barbarian|PHB|5|PHB",
         "Fast Movement|Barbarian|PHB|5|PHB",
-        "Unbridled Fury|The Lost Barbarian|DI|6|DI",
+        "Unbridled Fury|The Lost Barbarian|DantesInferno|6|DantesInferno",
         "Feral Instinct|Barbarian|PHB|7|PHB",
         "Ability Score Improvement|Barbarian|PHB|8|PHB",
         "Brutal Critical (1 die)|Barbarian|PHB|9|PHB",
-        "Relentless Counterstrike|The Lost Barbarian|DI|10|DI",
+        "Relentless Counterstrike|The Lost Barbarian|DantesInferno|10|DantesInferno",
         "Relentless Rage|Barbarian|PHB|11|PHB",
         "Ability Score Improvement|Barbarian|PHB|12|PHB",
         "Brutal Critical (2 dice)|Barbarian|PHB|13|PHB",
-        "Unlimited Rage|The Lost Barbarian|DI|14|DI",
+        "Unlimited Rage|The Lost Barbarian|DantesInferno|14|DantesInferno",
         "Persistent Rage|Barbarian|PHB|15|PHB",
         "Ability Score Improvement|Barbarian|PHB|16|PHB",
         "Brutal Critical (3 dice)|Barbarian|PHB|17|PHB",
@@ -188,11 +188,11 @@
           }
         ],
         "name": "The Lost Barbarian:",
-        "source": "DI",
+        "source": "DantesInferno",
         "entries": [
           {
             "name": "The Lost Barbarian",
-            "source": "DI",
+            "source": "DantesInferno",
             "page": 25,
             "type": "section",
             "entries": [
@@ -218,7 +218,7 @@
               },
               {
                 "name": "Overview of the Beast:",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 25,
                 "type": "section",
                 "entries": [
@@ -232,7 +232,7 @@
               },
               {
                 "name": "Beast Emblems",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 26,
                 "type": "section",
                 "entries": [
@@ -288,7 +288,7 @@
     },
     {
       "name": "The Lost Bard",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 29,
       "hd": {
         "number": 1,
@@ -733,25 +733,25 @@
         "Power Word Kill"
       ],
       "classFeatures": [
-        "Embracing the Sin|The Lost Bard|DI|1|DI",
+        "Embracing the Sin|The Lost Bard|DantesInferno|1|DantesInferno",
         "Spellcasting|Bard|PHB|1|PHB",
         "Bardic Inspiration|Bard|PHB|1|PHB",
         "Jack of All Trades|Bard|PHB|2|PHB",
         "Song of Rest (d6)|Bard|PHB|2|PHB",
-        "Aura of Chaos|The Lost Bard|DI|3|DI",
-        "Reflection of Pain|The Lost Bard|DI|3|DI",
+        "Aura of Chaos|The Lost Bard|DantesInferno|3|DantesInferno",
+        "Reflection of Pain|The Lost Bard|DantesInferno|3|DantesInferno",
         "Ability Score Improvement|Bard|PHB|4|PHB",
         "Bardic Inspiration (d8)|Bard|PHB|5|PHB",
         "Font of Inspiration|Bard|PHB|5|PHB",
         "Countercharm|Bard|PHB|6|PHB",
-        "Hideous Echo|The Lost Bard|DI|6|DI",
+        "Hideous Echo|The Lost Bard|DantesInferno|6|DantesInferno",
         "Ability Score Improvement|Bard|PHB|8|PHB",
         "Song of Rest (d8)|Bard|PHB|9|PHB",
         "Bardic Inspiration (d10)|Bard|PHB|10|PHB",
         "Ability Score Improvement|Bard|PHB|12|PHB",
         "Song of Rest (d10)|Bard|PHB|13|PHB",
         "Magical Secrets|Bard|PHB|14|PHB",
-        "Do You Wanna Know How I Got These Scars?|The Lost Bard|DI|14|DI",
+        "Do You Wanna Know How I Got These Scars?|The Lost Bard|DantesInferno|14|DantesInferno",
         "Bardic Inspiration (d12)|Bard|PHB|15|PHB",
         "Ability Score Improvement|Bard|PHB|16|PHB",
         "Song of Rest (d12)|Bard|PHB|17|PHB",
@@ -772,11 +772,11 @@
           }
         ],
         "name": "The Lost Bard:",
-        "source": "DI",
+        "source": "DantesInferno",
         "entries": [
           {
             "name": "The Lost Bard",
-            "source": "DI",
+            "source": "DantesInferno",
             "page": 29,
             "type": "section",
             "entries": [
@@ -798,7 +798,7 @@
               },
               {
                 "name": "Overview of the Jester:",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 29,
                 "type": "section",
                 "entries": [
@@ -811,7 +811,7 @@
               },
               {
                 "name": "Jester Emblems",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 30,
                 "type": "section",
                 "entries": [
@@ -868,7 +868,7 @@
     },
     {
       "name": "The Lost Cleric",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 35,
       "hd": {
         "number": 1,
@@ -1269,27 +1269,27 @@
           "Mass Heal"
       ], 
       "classFeatures": [
-        "Embracing Your Sin|The Lost Cleric|DI|1|DI",
+        "Embracing Your Sin|The Lost Cleric|DantesInferno|1|DantesInferno",
         "Spellcasting|Cleric|PHB|1|PHB",
-        "Vicar Domain Spells|The Lost Cleric|DI|1|DI",
-        "Light of the Lord|The Lost Cleric|DI|1|DI",
-        "Personified Dogma|The Lost Cleric|DI|1|DI",
+        "Vicar Domain Spells|The Lost Cleric|DantesInferno|1|DantesInferno",
+        "Light of the Lord|The Lost Cleric|DantesInferno|1|DantesInferno",
+        "Personified Dogma|The Lost Cleric|DantesInferno|1|DantesInferno",
         "Channel Divinity|Cleric|PHB|2|PHB",
-        "Sermon|The Lost Cleric|DI|2|DI",
+        "Sermon|The Lost Cleric|DantesInferno|2|DantesInferno",
         "Ability Score Improvement|Cleric|PHB|4|PHB",
         "Destroy Undead (CR 1/2)|Cleric|PHB|5|PHB",
         "Channel Divinity|Cleric|PHB|6|PHB",
-        "Universal Word|The Lost Cleric|DI|6|DI",
+        "Universal Word|The Lost Cleric|DantesInferno|6|DantesInferno",
         "Ability Score Improvement|Cleric|PHB|8|PHB",
         "Destroy Undead (CR 1)|Cleric|PHB|8|PHB",
-        "Divine Power|The Lost Cleric|DI|8|DI",
+        "Divine Power|The Lost Cleric|DantesInferno|8|DantesInferno",
         "Divine Intervention|Cleric|PHB|10|PHB",
         "Destroy Undead (CR 2)|Cleric|PHB|11|PHB",
         "Ability Score Improvement|Cleric|PHB|12|PHB",
         "Destroy Undead (CR 3)|Cleric|PHB|14|PHB",
         "Ability Score Improvement|Cleric|PHB|16|PHB",
         "Destroy Undead (CR 4)|Cleric|PHB|17|PHB",
-        "Fervent Words|The Lost Cleric|DI|17|DI",
+        "Fervent Words|The Lost Cleric|DantesInferno|17|DantesInferno",
         "Channel Divinity|Cleric|PHB|18|PHB",
         "Ability Score Improvement|Cleric|PHB|19|PHB",
         "Divine Intervention Improvement|Cleric|PHB|20|PHB"
@@ -1307,11 +1307,11 @@
           }
         ],
         "name": "The Lost Cleric:",
-        "source": "DI",
+        "source": "DantesInferno",
         "entries": [
           {
             "name": "The Lost Cleric",
-            "source": "DI",
+            "source": "DantesInferno",
             "page": 35,
             "type": "section",
             "entries": [
@@ -1333,7 +1333,7 @@
               },
               {
                 "name": "Overview of the Vicar:",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 35,
                 "type": "section",
                 "entries": [
@@ -1347,7 +1347,7 @@
               },
               {
                 "name": "Vicar Emblems",
-                "source": "DI",
+                "source": "DantesInferno",
                 "page": 36,
                 "type": "section",
                 "entries": [
@@ -1405,10 +1405,10 @@
   "classFeature": [
     {
       "name": "Embrace The Sin",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 27,
       "className": "The Lost Barbarian",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "On your turn, you can spend 2 Hope Points to take one additional action on top of your regular action and a possible bonus action."
@@ -1416,10 +1416,10 @@
     },
     {
       "name": "Blinding Rage",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 27,
       "className": "The Lost Barbarian",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 3,
       "entries": [
         "Starting at 3rd level, you gain some additional effects while raging.",
@@ -1430,10 +1430,10 @@
     },
     {
       "name": "Unbridled Fury",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 27,
       "className": "The Lost Barbarian",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 6,
       "entries": [
         "Starting at 6th level, when you score a critical hit, or drop a creature to 0 hit points on your turn, you can make an attack with a melee weapon as a bonus action."
@@ -1441,10 +1441,10 @@
     },
     {
       "name": "Relentless Counterstrike",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 27,
       "className": "The Lost Barbarian",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 10,
       "entries": [
         "Starting at 10th level, other creatures provoke an opportunity attack from you when they come within reach of the weapon you are holding."
@@ -1452,10 +1452,10 @@
     },
     {
       "name": "Unlimited Rage",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 27,
       "className": "The Lost Barbarian",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 14,
       "entries": [
         "Starting at 14th level, when you are raging and you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead, and gain immunity to all damage until the beginning of your next turn. After you use this feature, you can't use it again until you complete a long rest."
@@ -1463,10 +1463,10 @@
     },
     {
       "name": "Embracing The Sin",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 32,
       "className": "The Lost Bard",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "On your turn, you can spend 2 Hope Points to regain all of your expended uses of Bardic Inspiration."
@@ -1474,10 +1474,10 @@
     },
     {
       "name": "Aura of Chaos",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 32,
       "className": "The Lost Bard",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 3,
       "entries": [
         "Starting at 3rd level, you can use your bonus action and spend one use of your Bardic Inspiration dice to make your Distracting Aura even more chaotic. Until the start of your next turn, every creature within your Distracting Aura who can hear you must subtract the result of your rolled Bardic Inspiration die from an attack roll, an ability check, or a damage roll they make, of your choice. You are affected by this effect as well. A creature that cannot be charmed is immune to this effect."
@@ -1485,10 +1485,10 @@
     },
     {
       "name": "Reflection of Pain",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 32,
       "className": "The Lost Bard",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 3,
       "entries": [
         "Also at 3rd level, you learn to turn any feeling of pain and despair back at those who attack you. When a creature that you can see within 10 feet of you hits you with a melee weapon, you can use your reaction to force that creature to make a Wisdom saving throw against your spell save DC. The creature then takes 3d6 psychic damage on a failed saving throw, and half as much on a successful one. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest."
@@ -1496,10 +1496,10 @@
     },
     {
       "name": "Hideous Echo",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 32,
       "className": "The Lost Bard",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 6,
       "entries": [
         "Starting at 6th level, you can cast the spell {@spell hideous laughter} without expending a spell slot. Once you cast hideous laughter in this way a number of times equal to your proficiency bonus, you can't do so again until you finish a long rest, though you can still cast it normally using an available spell slot. You regain any expended usus when you finish a long rest. In addition, when you cast hideous laughter, you can spend one use of Bardic Inspiration to target with that spell every other creature within your Distracting Aura."
@@ -1507,10 +1507,10 @@
     },
     {
       "name": "Do You Wanna Know How I Got These Scars?",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 32,
       "className": "The Lost Bard",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 14,
       "entries": [
         "Starting at 14th level, when you suffer a new wound, you can turn a part of it into a wicked form of pleasure and throw that wound back at your attacker. Not even Infernal beings can escape this turmoil. If a creatue hits you with a melee attack, it takes 1d8 psychic damage."
@@ -1518,10 +1518,10 @@
     },
     {
       "name": "Vicar Domain Spells",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "A vicar’s life was a life of hypocrisy, falseness, vanity, and pride. A facade of strictness and devotion used to hide fear, doubts, bad habits, and deceptions. This led the vicar to Hell, and this is what sustains them in the Blind World... yet, it is a poisoned, hollow sustenance, and a vicar’s Journey has only one purpose: to get rid of this sin.",
@@ -1564,10 +1564,10 @@
     },
     {
       "name": "Embracing Your Sin",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "When you are hit by a melee attack, you can spend 2 Hope Points to deflect the attack onto a creature of your choice. That creature must be a creature within reach of the attack that you can see, but it cannot be the original attacker."
@@ -1575,10 +1575,10 @@
     },
     {
       "name": "Light of the Lord",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "When you choose this domain at 1st level, you gain the {@spell light} cantrip if you don’t already know it."
@@ -1586,10 +1586,10 @@
     },
     {
       "name": "Personified Dogma",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 1,
       "entries": [
         "Starting at 1st level you gain proficiency in the Deception and Persuasion skills. Your proficiency bonus is doubled for any ability check you make that uses either of those skills."
@@ -1597,10 +1597,10 @@
     },
     {
       "name": "Sermon",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 2,
       "entries": [
         "Starting at 2nd level, you can use Channel Divinity to enflame the hearts of those who listen to your words.",
@@ -1609,10 +1609,10 @@
     },
     {
       "name": "Universal Word",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 6,
       "entries": [
         "Starting at 6th level, when you use your Sermon, it affects any type of creature."
@@ -1620,10 +1620,10 @@
     },
     {
       "name": "Divine Power",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 8,
       "entries": [
         "Starting at 8th level, you add your Wisdom modifier to damage rolls you make with your Torch of Vanity or with any cantrip."
@@ -1631,10 +1631,10 @@
     },
     {
       "name": "Fervent Words",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 38,
       "className": "The Lost Cleric",
-      "classSource": "DI",
+      "classSource": "DantesInferno",
       "level": 17,
       "entries": [
         "At 17th level, you gain the ability to use your words to control the actions of those who hear them. When a creature is charmed by your Sermon feature, you can take a bonus action on your turn to verbally command each one of those creatures, deciding what they will do in their next turn."
@@ -1644,7 +1644,7 @@
   "race": [
     {
       "name": "The Lost One",
-      "source": "DI",
+      "source": "DantesInferno",
       "page": 12,
       "creatureTypes": [
         "humanoid"
