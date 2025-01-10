@@ -1846,111 +1846,96 @@
             "type": "image",
             "href": {
               "type": "external",
-              "url": "https://raw.githubusercontent.com/rvanmatre50/infernoimages/main/class_images/thepagan1.png"
+              "url": "https://raw.githubusercontent.com/rvanmatre50/infernoimages/main/class_images/thejester1.png"
             }
           }
         ],
-        "name": "The Lost Druid:",
+        "name": "The Lost Bard:",
         "source": "DantesInferno",
         "entries": [
           {
-            "name": "The Lost Druid",
+            "name": "The Lost Bard",
             "source": "DantesInferno",
-            "page": 41,
+            "page": 29,
             "type": "section",
             "entries": [
               {
                 "type": "inset",
-                "name": "Inferno, Canto IV, 31-42",
+                "name": "Inferno, Canto XIII, 124-129",
                 "entries": [
                   "‎ ",
-                  "{@i To me the Master good: 'Thou dost not ask}",
-                  "{@i what spirits these, which thou beholdest, are?}",
-                  "{@i now will I have thee know, ere thou go farther,}",
+                  "{@i Behind them was the forest full of black}",
+                  "{@i she-mastiffs, ravenous, and swift of foot}",
+                  "{@i as greyhounds, who are issuing from the chain}",
                   "‎ ",
-                  "{@i that they sinned not; and if they merit had,}",
-                  "{@i 't is not enough, because they had not baptism,}",
-                  "{@i which is the portal of the Faith thou holdest;}",
+                  "{@i On him who had crouched down they set their teeth,}",
+                  "{@i and him they lacerated piece by piece,}",
+                  "{@i thereafter bore away those aching members.}",
                   "‎ ",
-		"{@i and if they were before Christianity,}",
-                  "{@i in the right manner they adored not God;}",
-                  "{@i and mong such as these am I myself.}",
-                  "‎ ",
-                  "{@i For such defects, and not for other guilt,}",
-                  "{@i lost are we, and are only so far punished,}",
-                  "{@i that without hope we live on in desire.}",
-		"‎ ",
                   "‎{@b Dante Alighieri, 1314}"
                 ]
               },
               {
-                "name": "Overview of the Pagan:",
+                "name": "Overview of the Jester:",
                 "source": "DantesInferno",
-                "page": 41,
+                "page": 29,
                 "type": "section",
                 "entries": [
-                  "Hell is not just the dwelling of sinners and the Lord’s enemies. All those who served False and Lying Deities, those who meant well but believed in their lies are also doomed to the kingdom of pain. Those who served erroneous beliefs or worshipped other ideals, whether by their own will or through deception, conscious choices or naïve delusion, will end up in Hell after their death. The First Circle, where the unbaptized lie, awaits them. Even in life, they will appear there as Pagans, forever marked by their own indelible mistakes.",
-		      "Maybe you were just born in a country or in a family where they worshipped another deity. Maybe you ignored the Lord’s creed to stick to other principles and theories, such a different cult, a philosophy, scientific rationalism, or agnosticism. Maybe you just lived in the wrong place or time.",
-		  "Your creed, your ideals, or your errors, whatever they might have been, cannot be justified, not even by ascribing them to ignorance. After your death, you will be sentenced to spend endless millennia in Limbo, lost in the mists of reason and the emptiness of flawed philosophies. No devils and no pain await you in Limbo, but you will find no love or solace, either. Only an eternity of restlessness. And yet, you and those like you might still find a place among the Spiriti Magni, behind the seven walls of the High Castle, at the trembling light of the Divine Flame shining in its halls.",
-		 "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and sinister shadow, an omen of what awaits you after your death, till the end of times, unless you atone and are redeemed. As a symbol of this fateful sin, your semblance displays the emblems of the ancient and fallacious myths, but only when you disavow them will you find redemption in the glory of Divine Love.",
-		      "Fear the First Circle, as it will be the hardest test you will have to face when you get there!"
+                  "In the Seventh Circle grows a tangled and wailing forest where every tree entraps the soul of a suicide. Those who squandered their wealth and possessions run forever among those bleeding bushes, pursued and torn to pieces by vicious and hungry hounds. Those who wasted their life and their skills, and those who mocked the Lord by wasting their time in frivolous pleasures will be sentenced to the Seventh Circle of Hell, the circle of the violent against themselves. If they descend into Hell while they’re still alive, they will turn into Jesters, dressed like fools and sporting foolish grin.",
+                  "Maybe you were an idle young man and you spent your whole life locked inside, among foolish toys, frivolous books, and other unworthy pastimes. Or maybe you were a rich and spoiled woman, always thinking about superfluous purchases, galas, and concerts. Or maybe you were a selfish and bitter old woman, who refused to do anything to help those around you in the endless and boring last days of your life. Whatever your guilts in the earthly domain, after your death, your fitting punishment will be to spend eternity in the forest of suicides, hunted down by a savage and untiring pack of hounds. You will never be able to elude them, and you will run forever alongside those who, like you, squandered their greatest gift.",
+                  "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and heavy cloud, foreshadowing what will happen to you after your death, till the end of times, unless you can atone and be redeemed in time.",
+                  "To represent your fatal flaw, your semblance is covered with small bells, whose unending jingles are a dire signal to the hounds waiting for you in the eternal shadows. Your face is eternally frozen in a foolish grin, but it is concealed by a mask which you can never remove, a symbol of the false life you flaunted.",
+                  "You fear the Second Round of the Seventh Circle. Your hardest trial awaits you there!"
                 ]
               },
               {
-                "name": "Pagan Emblems",
+                "name": "Jester Emblems",
                 "source": "DantesInferno",
-                "page": 42,
+                "page": 30,
                 "type": "section",
                 "entries": [
                   {
                     "type": "inset",
-                    "name": "Mythic Amphora",
+                    "name": "Touch of Madness",
                     "entries": [
                       "‎ ",
-                      "Just like the notorious Pandora’s Box, you always carry with you a jar filled with the myths and beliefs that burden your faith and which you still can’t get rid of.",
-                      "You can use an action to summon the ancient spirits bound to the jar. One or more spirits drawn from the epic lore of your culture answer your call and appear within 60 feet of you. The spirits disappear after 1 hour, or when they drop to 0 hit points. Once you use this feature, you can’t use it again until you finish a short or long rest",
-			    "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two scouts, or Tauromachia to summon a minotaur.",
-			    "{@i Amazonomachia:} You summon two amazons (or two warrior women from your culture), who use the scout stat block. The summoned creatures are friendly to you and your companions. Roll initiative for the Amazons, who have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the Amazons, they defend themselves from hostile creatures but otherwise take no actions.",
+                      "A jester taints all those around them with their ominous madness, infecting them with the very same folly that affects the jester.",
+                      "You gain a new attack option which you can use with your Attack action. This special action is a melee attack. You are proficient with this attack and you can add your Charisma modifier to your attack and damage rolls. This attack deals psychic damage and its damage die is a d6.",
                       "‎ ",
-                      "‎ • {@b Tormented:} {@i Tauromachia:} You summon a minotaur, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Tormented:}  You gain a +1 bonus to attack and damage rolls you make using your Touch of Madness.",
                       "‎ ‎",
-                      "‎ • {@b Burned:} {@i Centauromachia:} You summon an infernal centaur, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Burned:} The bonus to attack and damage rolls you make using your Touch of Madness increases to +2. In addition, the psychic damage you deal increases to 2d6.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions.",
-			    "‎‎ "
+                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make using your Touch of Madness increases to +3. In addition, the psychic damage you deal increases to 3d6."
                     ]
                   },
                   {
                     "type": "inset",
-                    "name": "Crosier",
+                    "name": "Jester Bells",
                     "entries": [
                       "‎ ",
-                      "This pastoral staff is a symbol of the holy traditions observed by the pagan’s culture, the system of cults and hieratic elements in which the pagan has always believed. The Crosier is a magic quarterstaff. You can use it as a spell focus for your druid spells.",
-                      "In addition, your attacks in beast shape count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.",
+                      "The numerous bells hanging from your semblance are considered an instrument, and grant you a special Distracting Aura. In addition, when you cast a spell that includes a verbal component, you can replace it with a somatic component.",
+                      "Distracting Aura: You and every creature within 30 feet of you have disadvantage on Wisdom (Perception) checks that rely on hearing and Dexterity (Stealth) checks.",
                       "‎ ",
-                      "‎ • {@b Tormented:}  You gain a +1 bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape.",
+                      "‎ • {@b Tormented:}  When you target a creature with a spell and that creature is within your Distracting Aura, you can choose to add your Touch of Madness damage in addition to the normal effect of the spell.",
                       "‎ ‎",
-                      "‎ • {@b Burned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +2.",
+                      "‎ • {@b Burned:} You can use an action to deal your Touch of Madness damage to every creature within your Distracting Aura. You are also affected by this effect. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} The bonus to attack and damage rolls you make with your Crosier, and while you are in beast shape increases to +3.",
-			    "‎‎ "
+                      "‎ • {@b Damned:} When you use Wave of Madness, you can spend a spell slot to deal extra psychic damage to your targets, in addition to your Wave of Madness damage. The extra damage is equal to 1d6 for a 1st level spell slot, plus 1d6 for each spell level higher than 1st, to a maximum of 9d6."
                     ]
                   },
                   {
                     "type": "inset",
-                    "name": "Silvered Robe",
+                    "name": "Mask",
                     "entries": [
                       "‎ ",
-                      "Although you have always lived in error, you have always behaved according to your personal values, a trait symbolized by the silvered robe enshrouding your semblance.",
-			 "While you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Wisdom modifier.",
+                      "A grinning mask hides a Jester’s face. An outer semblance concealing their inner semblance. While you are wearing no armor and not wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.",
                       "‎ ",
-                      "‎ • {@b Tormented:}  When a monstrosity attacks you, that creature must make a Wisdom saving throw against your spell save DC. On a failed save, it must choose a different target, otherwise, the attack automatically misses. On a success, the creature is immune to this effect for the next 24 hours. The creature is aware of this effect before making its attack against you.",
+                      "‎ • {@b Tormented:}  You gain a +1 bonus to your AC and saving throws.",
                       "‎ ‎",
-                      "‎ • {@b Burned:} When you fail an attack roll, an ability check, or a saving throw, you can use your reaction to invoke divine help. You can add your Wisdom modifier to your roll. You can use this feature a number of times equal to your proficiency bonus. You regain any expended uses when you finish a long rest.",
+                      "‎ • {@b Burned:} You can use an action to cast a 5th level version of the confusion spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
-		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest.",
-			    "‎‎ "
+                      "‎ • {@b Damned:} When you succeed on a saving throw against any spell that targets only you (not an area of effect), you can use your reaction to reflect that spell. The spell has no effect on you and instead targets the caster, using the slot level, spell save DC, attack bonus, and spellcasting ability of the caster. Once you use this feature, you can’t use it again until you finish a long rest."
                     ]
                   }
                 ]
