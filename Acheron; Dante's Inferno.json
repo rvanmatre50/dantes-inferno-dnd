@@ -1948,6 +1948,7 @@
                       "‎‎ ",
                       "‎ • {@b Damned:} You gain resistance to one of the following types of damage: acid, cold, lightning, fire, necrotic, radiant, or thunder.",
 		"{@i Absorption:} When you take damage of your chosen type, you can use your reaction to gain immunity to that specific source of damage until the start of your next turn. In addition, you regain a number of hit points equal to half the amount of damage of that type you would have suffered. Once you use this feature, you can’t use it again until you finish a long rest."
+		    ]
                   }
                 ]
               }
