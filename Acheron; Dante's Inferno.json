@@ -885,7 +885,7 @@
           "shield"
         ],
         "weapons": [
-          "simple",
+          "simple"
         ],
         "skills": [
           {
@@ -1163,7 +1163,7 @@
         }
       ],
       "spellcastingAbility": "wis",
-      "cantripProgression:" [
+      "cantripProgression": [
         "3",
         "3",
         "3",
@@ -1400,7 +1400,7 @@
           }
         ]
       }
-    },
+    }
   ],
   "classFeature": [
     {
