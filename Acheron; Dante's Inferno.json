@@ -1909,14 +1909,14 @@
                       "‎ ",
                       "Just like the notorious Pandora’s Box, you always carry with you a jar filled with the myths and beliefs that burden your faith and which you still can’t get rid of.",
                       "You can use an action to summon the ancient spirits bound to the jar. One or more spirits drawn from the epic lore of your culture answer your call and appear within 60 feet of you. The spirits disappear after 1 hour, or when they drop to 0 hit points. Once you use this feature, you can’t use it again until you finish a short or long rest",
-                      "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two scouts, or Tauromachia to summon a minotaur.",
+                      "At every new emblem level, more spirits answer your call. For example, if the Mythic Amphora is of Tormented level, every time you use it, you can choose to use Amazonomachia to summon two {@creature scouts}, or Tauromachia to summon a {@creature minotaur}.",
                       "{@i Amazonomachia:} You summon two amazons (or two warrior women from your culture), who use the scout stat block. The summoned creatures are friendly to you and your companions. Roll initiative for the Amazons, who have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the Amazons, they defend themselves from hostile creatures but otherwise take no actions.",
                       "‎ ",
-                      "‎ • {@b Tormented:} {@i Tauromachia:} You summon a minotaur, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Tormented:} {@i Tauromachia:} You summon a {@creature minotaur}, who is friendly to you and your companions. Roll initiative for the minotaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the minotaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎ ‎",
-                      "‎ • {@b Burned:} {@i Centauromachia:} You summon an infernal centaur, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
+                      "‎ • {@b Burned:} {@i Centauromachia:} You summon an {@creature infernal centaur}, who is friendly to you and your companions. Roll initiative for the centaur, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the centaur, it defends itself from hostile creatures but otherwise takes no actions.",
                       "‎‎ ",
-                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the gladiator stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions."
+                      "‎ • {@b Damned:} {@i Song of the Hero:} You can use an action to summon the spirit of a hero of old who uses the {@crature gladiator} stat block and is equipped with magic weapons. The summoned creature is friendly to you and your companions. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to the hero, it defends itself from hostile creatures but otherwise takes no actions."
                     ]
                   },
                   {
@@ -4656,7 +4656,7 @@
         "petrified",
         "poisoned"
       ],
-      "cr": "0",
+      "cr": "3",
       "trait": [
         {
           "name": "Legendary Resistance (1/Day)",
