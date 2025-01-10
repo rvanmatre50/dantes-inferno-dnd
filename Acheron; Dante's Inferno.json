@@ -850,7 +850,7 @@
                     "name": "Mask",
                     "entries": [
                       "‎ ",
-                      "A grinning mask hides a Jester’s face. An outer semblance concealing their inner semblance. While you are wearing no armor and not wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.",
+                      "A grinning mask {@monster kobold} hides a Jester’s face. An outer semblance concealing their inner semblance. While you are wearing no armor and not wielding a shield, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier.",
                       "‎ ",
                       "‎ • {@b Tormented:}  You gain a +1 bonus to your AC and saving throws.",
                       "‎ ‎",
