@@ -867,22 +867,540 @@
       }
     },
     {
-      "name": "The Vicar",
-      "shortName": "The Vicar",
+      "name": "The Lost Cleric",
       "source": "DI",
-      "className": "The Lost Cleric",
-      "classSource": "DI",
-      "subclassFeatures": [
-        "Embracing Your Sin|The Lost Cleric|DI|The Vicar|DI|1",
-        "Light Of The Lord|The Lost Cleric|DI|The Vicar|DI|1",
-        "Personified Dogma|The Lost Cleric|DI|The Vicar|DI|1",
-        "Sermon|The Lost Cleric|DI|The Vicar|DI|2",
-        "Universal Word|The Lost Cleric|DI|The Vicar|DI|6",
-        "Divine Power|The Lost Cleric|DI|The Vicar|DI|8",
-        "Fervent Words|The Lost Cleric|DI|The Vicar|DI|17"
+      "page": 35,
+      "hd": {
+        "number": 1,
+        "faces": 8
+      },
+      "proficiency": [
+        "wis",
+        "cha"
       ],
-      "hasFluffImages": true
-    }
+      "startingProficiencies": {
+        "armor": [
+          "light",
+          "medium",
+          "shield"
+        ],
+        "weapons": [
+          "simple",
+        ],
+        "skills": [
+          {
+            "choose": {
+              "from": [
+                "history",
+                "insight",
+                "medicine",
+                "persuasion",
+                "religion"
+              ],
+              "count": 2
+            }
+          }
+        ]
+      },
+      "classTableGroups": [
+        {
+          "colLabels": [
+            "Cantrips Known",
+            "1st",
+            "2nd",
+            "3rd",
+            "4th",
+            "5th",
+            "6th",
+            "7th",
+            "8th",
+            "9th"
+          ],
+          "rows": [
+            [
+              "3",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "3",
+              "3",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "3",
+              "4",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "3",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "3",
+              "1",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "3",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4",
+              "4",
+              "3",
+              "3",
+              "3",
+              "1",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "1",
+              "-",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "1",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "1",
+              "-"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "1",
+              "1"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "3",
+              "1",
+              "1",
+              "1",
+              "1"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "3",
+              "2",
+              "1",
+              "1",
+              "1"
+            ],
+            [
+              "5",
+              "4",
+              "3",
+              "3",
+              "3",
+              "3",
+              "2",
+              "2",
+              "1",
+              "1"
+            ]
+          ]
+        }
+      ],
+      "spellcastingAbility": "wis",
+      "cantripProgression:" [
+        "3",
+        "3",
+        "3",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "4",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "classSpells": [
+          "Guidance",
+          "Light",
+          "Mending",
+          "Resistance",
+          "Sacred Flame",
+          "Spare the Dying",
+          "Thaumaturgy",
+          "Bane",
+          "Bless",
+          "Command",
+          "Cure Wounds",
+          "Guiding Bolt",
+          "Detect Evil and Good",
+          "Detect Magic",
+          "Inflict Wounds",
+          "Healing Word",
+          "Protection from Evil and Good",
+          "Sanctuary",
+          "Shield of Faith",
+          "Aid",
+          "Augury",
+          "Blindness/Deafness",
+          "Calm Emotions",
+          "Continual Flame",
+          "Enhance Ability",
+          "Find Traps",
+          "Gentle Repose",
+          "Hold Person",
+          "Lesser Restoration",
+          "Locate Object",
+          "Prayer of Healing",
+          "Protection From Posion",
+          "Silence",
+          "Spiritual Weapon",
+          "Warding Bond",
+          "Zone of Truth",
+          "Beacon of Hope",
+          "Bestow Curse",
+          "Clairvoyance",
+          "Daylight",
+          "Dispel Magic",
+          "Glyph of Warding",
+          "Magic Circle",
+          "Mass Healing Word",
+          "Meld Into Stone",
+          "Protection From Energy",
+          "Remove Curse",
+          "Spirit Guardians",
+          "Water Walk",
+          "Death Ward",
+          "Divination",
+          "Freedom of Movement",
+          "Guardian of Faith",
+          "Locate Creature",
+          "Stone Shape",
+          "Commune",
+          "Contagion",
+          "Dispel Evil and Good",
+          "Flame Strike",
+          "Geas",
+          "Greater Restoration",
+          "Hallow",
+          "Insect Plague",
+          "Legend Lore",
+          "Mass Cure Wounds",
+          "Scrying",
+          "Blade Barrier",
+          "Find the Path",
+          "Forbiddance",
+          "Harm",
+          "Heal",
+          "True Seeing",
+          "Word of Recall",
+          "Divine Word",
+          "Fire Storm",
+          "Regenerate",
+          "Symbol",
+          "Antimagic Field",
+          "Control Weather",
+          "Earthquake",
+          "Holy Aura",
+          "Mass Heal"
+      ], 
+      "classFeatures": [
+        "Embracing Your Sin|The Lost Cleric|DI|1|DI",
+        "Spellcasting|Cleric|PHB|1|PHB",
+        "Vicar Domain Spells|The Lost Cleric|DI|1|DI",
+        "Light of the Lord|The Lost Cleric|DI|1|DI",
+        "Personified Dogma|The Lost Cleric|DI|1|DI",
+        "Channel Divinity|Cleric|PHB|2|PHB",
+        "Sermon|The Lost Cleric|DI|2|PHB",
+        "Ability Score Improvement|Cleric|PHB|4|PHB",
+        "Destroy Undead|Cleric|PHB|5|PHB",
+        "Channel Divinity (x2)|Cleric|PHB|6|PHB",
+        "Universal Word|The Lost Cleric|DI|6|DI",
+        "Ability Score Improvement|Cleric|PHB|8|PHB",
+        "Destroy Undead (CR 1)|Cleric|PHB|8|PHB",
+        "Divine Power|The Lost Cleric|DI|8|DI",
+        "Divine Intervention|Cleric|PHB|10|PHB",
+        "Destroy Undead (CR 2)|Cleric|PHB|11|PHB",
+        "Ability Score Improvement|Cleric|PHB|12|PHB",
+        "Destroy Undead (CR 3)|Cleric|PHB|14|PHB",
+        "Ability Score Improvement|Cleric|PHB|16|PHB",
+        "Destroy Undead (CR 4)|Cleric|PHB|17|PHB",
+        "Fervent Words|The Lost Cleric|DI|17|DI",
+        "Channel Divinity (x3)|Cleric|PHB|18|PHB",
+        "Ability Score Improvement|Cleric|PHB|19|PHB",
+        "Divine Intervention Improvement|Cleric|PHB|20|PHB"
+      ],
+      "hasFluff": true,
+      "hasFluffImages": true,
+      "fluff": {
+        "images": [
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://raw.githubusercontent.com/rvanmatre50/infernoimages/main/class_images/thevicar1.png"
+            }
+          }
+        ],
+        "name": "The Lost Cleric:",
+        "source": "DI",
+        "entries": [
+          {
+            "name": "The Lost Cleric",
+            "source": "DI",
+            "page": 35,
+            "type": "section",
+            "entries": [
+              {
+                "type": "inset",
+                "name": "Inferno, Canto XXIII, 61-66",
+                "entries": [
+                  "‎ ",
+                  "They had on mantles with the hoods low down",
+                  "before their eyes, and fashioned of the cut",
+                  "that in Cologne they for the monks are made.",
+                  "‎ ",
+                  "Without, they gilded are so that it dazzles;",
+                  "but inwardly all leaden and so heavy",
+                  "that Frederick used to put them on of straw",
+                  "‎ ",
+                  "‎Dante Alighieri, 1314"
+                ]
+              },
+              {
+                "name": "Overview of the Vicar:",
+                "source": "DI",
+                "page": 35,
+                "type": "section",
+                "entries": [
+                  "Those whose sin is of hypocrisy loudly preach righteous words in public, and then act differently in private. Those who claim to speak for the Lord and take up the mantle of divine authority without being worthy of that mantle, those who preach well but act badly, will join the ranks of hypocrites in the Eighth Circle when they are sent to Hell. Even in life, they visit Hell as Vicars, proud and haughty clergymen burdened with the cloak of hypocrisy.",
+                  "Maybe you were a proud and ineffective religious man, stirring others to virtue with your sermons, but secretly acting vile. Maybe you were a powerful woman or a mentor, always ready to sternly condemn others while you secretly indulged in the very same sins. Maybe you were an ambitious scholar or a foul disciple, spreading rumors and stirring malcontent to turn your teachers against your fellow students, so that you might shine the better as a model student.",
+                  "Whatever your sins might have been in the earthly world, after your death you will be sentenced to an endless march through Malebolge, burdened with a leaden cloak. This is your sentence; this is your fate.",
+                  "Now that you are in Hell, your sin looms over you like a dark and sinister shadow, an omen of what awaits you after your death, till the end of times, unless you atone and are redeemed.",
+                  "As a symbol of this fateful sin, your semblance must wear a golden cloak which looks shining, but actually weighs as the basest of metals. You also wield a heavy torch with a flickering flame, a pale imitation of the true divine light. Yet, in that burning Divine Flame lies your Hope and your only chance at redemption.",
+                  "Fear the Sixth Bolgia of the Eighth Circle, as it will be the hardest test you will have to face when you get there!"
+                ]
+              },
+              {
+                "name": "Vicar Emblems",
+                "source": "DI",
+                "page": 36,
+                "type": "section",
+                "entries": [
+                  {
+                    "type": "inset",
+                    "name": "Cloak of Hypocrisy",
+                    "entries": [
+                      "‎ ",
+                      "The heavy garment enshrouding your semblance looks like a golden cloak, but it is actually made of lead. It is uncomfortable, heavy, and encumbering. The Cloak of Hypocrisy acts as a suit of magic armor. Its wearer has AC 16 and disadvantage on Dexterity (Stealth) checks. The cloak doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.",
+                      "‎ ",
+                      "‎ • Tormented: You no longer make your Dexterity (Stealth) checks with disadvantage because of your Cloak of Hypocrisy. In addition, you gain a +1 bonus to your saving throws",
+                      "‎ ‎",
+                      "‎ • Burned: Your Cloak of Hypocrisy grants you AC 17. In addition, you gain a +1 bonus on your attack rolls with your spells and to your spells’ save DC.",
+                      "‎‎ ",
+                      "‎ • Damned:  Your Cloak of Hypocrisy grants you AC 18. In addition, when you are hit by a melee attack, you can use your reaction to cast the holy aura spell (spell save DC 17). This spell only affects you. Once you use this feature, you can’t use it again until you finish a long rest."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Torch of Vanity",
+                    "entries": [
+                      "‎ ",
+                      "This light source tries to mimic the torches and flames irradiating a Divine Flame, but its fire is vacuous and it transmits no hope, only a pale imitation of the heavenly light.",
+                      "The Torch of Vanity is a magic mace. In addition, when you hit with an attack you made with the Torch of Vanity or when you deal damage with any cantrip, the target takes 1d4 extra radiant damage.",
+                      "‎ ",
+                      "‎ • Tormented: You gain a +1 bonus to attack and damage rolls you make with your Torch of Vanity.",
+                      "‎ ‎",
+                      "‎ • Burned: The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +2. In addition, your extra radiant damage increases to 2d4.",
+                      "‎‎ ",
+                      "‎ • Damned:  The bonus you gain to attack and damage rolls you make with your Torch of Vanity increases to +3. In addition, your extra radiant damage increases to 3d4."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Holy Word",
+                    "entries": [
+                      "‎ ",
+                      "In spite of your hypocrisy, you were a person of faith and strictness, and your orations and prayers could stir even the most cynical soul. You haven’t lost your touch in Hell. You wear a necklace with a token symbolizing the Lord. You can use that token as a holy symbol. In addition, you can use an action to cast the command spell (spell save DC 14). You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
+                      "‎ ",
+                      "‎ • Tormented: You can use an action to cast the compulsion spell (spell save DC 15). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎ ‎",
+                      "‎ • Burned: You can use an action to cast the irresistible dance spell (spell save DC 16). Once you use this feature, you can’t use it again until you finish a long rest.",
+                      "‎‎ ",
+                      "‎ • Damned: You can use an action to cast the power word stun spell (spell save DC 17). Once you use this feature, you can’t use it again until you finish a long rest."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
   ],
   "classFeature": [
     {
@@ -996,6 +1514,130 @@
       "level": 14,
       "entries": [
         "Starting at 14th level, when you suffer a new wound, you can turn a part of it into a wicked form of pleasure and throw that wound back at your attacker. Not even Infernal beings can escape this turmoil. If a creatue hits you with a melee attack, it takes 1d8 psychic damage."
+      ]
+    },
+    {
+      "name": "Vicar Domain Spells",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 1,
+      "entries": [
+        "A vicar’s life was a life of hypocrisy, falseness, vanity, and pride. A facade of strictness and devotion used to hide fear, doubts, bad habits, and deceptions. This led the vicar to Hell, and this is what sustains them in the Blind World... yet, it is a poisoned, hollow sustenance, and a vicar’s Journey has only one purpose: to get rid of this sin.",
+        "You gain domain spells at the cleric levels listed in the Vicar Domain Spells table. See the Divine Domain Cleric class feature for how domain spells work.",
+        {
+					"type": "table",
+					"caption": "Vicar Domain Spells",
+					"colLabels": [
+						"Cleric Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-2 text-center",
+						"col-10"
+					],
+					"rows": [
+						[
+							"1st",
+							"{@spell charm person}, {@spell silent image}"
+						],
+						[
+							"3rd",
+							"{@spell enthrall}, {@spell suggestion}"
+						],
+						[
+							"5th",
+							"{@spell fear}, {@spell hypnotic pattern}"
+						],
+						[
+							"7th",
+							"{@spell compulsion}, {@spell phantasmal killer}"
+						],
+						[
+							"9th",
+							"{@spell hold monster}, {@spell mislead}"
+						]
+					]
+				}
+      ]
+    },
+    {
+      "name": "Embracing Your Sin",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 1,
+      "entries": [
+        "When you are hit by a melee attack, you can spend 2 Hope Points to deflect the attack onto a creature of your choice. That creature must be a creature within reach of the attack that you can see, but it cannot be the original attacker."
+      ]
+    },
+    {
+      "name": "Light of the Lord",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 1,
+      "entries": [
+        "When you choose this domain at 1st level, you gain the {@spell light} cantrip if you don’t already know it."
+      ]
+    },
+    {
+      "name": "Personified Dogma",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 1,
+      "entries": [
+        "Starting at 1st level you gain proficiency in the Deception and Persuasion skills. Your proficiency bonus is doubled for any ability check you make that uses either of those skills."
+      ]
+    },
+    {
+      "name": "Sermon",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 2,
+      "entries": [
+        "Starting at 2nd level, you can use Channel Divinity to enflame the hearts of those who listen to your words.",
+        "With an action, you hold your holy symbol and invoke the name of the Lord. Every humanoid within 30 feet of you who can see and hear you must make a Wisdom saving throw. If a creature fails its saving throw, it is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is friendly to you and other creatures you designate."
+      ]
+    },
+    {
+      "name": "Universal Word",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 6,
+      "entries": [
+        "Starting at 6th level, when you use your Sermon, it affects any type of creature."
+      ]
+    },
+    {
+      "name": "Divine Power",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 8,
+      "entries": [
+        "Starting at 8th level, you add your Wisdom modifier to damage rolls you make with your Torch of Vanity or with any cantrip."
+      ]
+    },
+    {
+      "name": "Fervent Words",
+      "source": "DI",
+      "page": 38,
+      "className": "The Lost Cleric",
+      "classSource": "DI",
+      "level": 17,
+      "entries": [
+        "At 17th level, you gain the ability to use your words to control the actions of those who hear them. When a creature is charmed by your Sermon feature, you can take a bonus action on your turn to verbally command each one of those creatures, deciding what they will do in their next turn."
       ]
     }
   ],
