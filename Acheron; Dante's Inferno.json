@@ -1956,6 +1956,185 @@
           }
         ]
       }
+    },
+    {
+      "name": "The Lost Fighter",
+      "source": "DantesInferno",
+      "page": 47,
+      "hd": {
+        "number": 1,
+        "faces": 10
+      },
+      "proficiency": [
+        "str",
+        "con"
+      ],
+      "startingProficiencies": {
+        "armor": [
+          "light",
+          "medium",
+          "heavy",
+          "shield"
+        ],
+        "weapons": [
+          "simple",
+          "martial"
+        ],
+        "skills": [
+          {
+            "choose": {
+              "from": [
+                "acrobatics",
+                "animal handling",
+                "athletics",
+                "history",
+                "insight",
+                "intimidation",
+                "perception",
+                "survival"
+              ],
+              "count": 2
+            }
+          }
+        ]
+      },
+      "classFeatures": [
+        "Embracing Your Sin|The Lost Fighter|DantesInferno|1|DantesInferno",
+        "Fighting Style|Fighter|PHB|1|PHB",
+        "Second Wind|Fighter|PHB|1|PHB",
+        "Action Surge|Fighter|PHB|2|PHB",
+        "Blood Calls Blood|The Lost Fighter|DantesInferno|3|DantesInferno",
+        "Ability Score Improvement|Fighter|PHB|4|PHB",
+        "Extra Attack|Fighter|PHB|5|PHB",
+        "Ability Score Improvement|Fighter|PHB|6|PHB",
+        "Blood Critical|The Lost Fighter|DantesInferno|7|DantesInferno",
+        "Ability Score Improvement|Fighter|PHB|8|PHB",
+        "Indomitable|Fighter|PHB|9|PHB",
+        "Improved Blood Dice (d10)|The Lost Fighter|DantesInferno|10|DantesInferno",
+        "Extra Attack (x2)|Fighter|PHB|11|PHB",
+        "Ability Score Improvement|Fighter|PHB|12|PHB",
+        "Indomitable (x2)|Fighter|PHB|13|PHB",
+        "Fury of the Wild Shape|The Lost Druid|DantesInferno|14|DantesInferno",
+        "Ability Score Improvement|Fighter|PHB|14|PHB",
+        "Bloodied Wind|The Lost Fighter|DantesInferno|15|DantesInferno",
+        "Ability Score Improvement|Druid|PHB|16|PHB",
+        "Action Surge (x2)|Fighter|PHB|17|PHB",
+        "Indomitable (x3)|Fighter|PHB|17|PHB",
+        "Improved Blood Dice (d12)|The Lost Fighter|DantesInferno|18|DantesInferno",
+        "Ability Score Improvement|Fighter|PHB|19|PHB",
+        "Extra Attack (x3)|Fighter|PHB|20|PHB"
+      ],
+      "hasFluff": true,
+      "hasFluffImages": true,
+      "fluff": {
+        "images": [
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://raw.githubusercontent.com/rvanmatre50/infernoimages/main/class_images/thetyrant1.png"
+            }
+          }
+        ],
+        "name": "The Lost Fighter:",
+        "source": "DantesInferno",
+        "entries": [
+          {
+            "name": "The Lost Fighter:",
+            "source": "DantesInferno",
+            "page": 47,
+            "type": "section",
+            "entries": [
+              {
+                "type": "inset",
+                "name": "Inferno, Canto VIII, 46-51",
+                "entries": [
+                  "‎ ",
+                  "{@i That was an arrogant person in the world;}",
+                  "{@i goodness is none, that decks his memory;}",
+                  "{@i so likewise here his shade is furious.}",
+                  "‎ ",
+                  "{@i 'How many are esteemed great kings up there,}",
+                  "{@i who here shall be like unto swine in mire,}",
+                  "{@i leaving behind them horrible dispraises!'}",
+                  "‎ ",
+                  "‎{@b Dante Alighieri, 1314}"
+                ]
+              },
+              {
+                "name": "Overview of the Tyrant:",
+                "source": "DantesInferno",
+                "page": 41,
+                "type": "section",
+                "entries": [
+                  "Hell is not just the dwelling of sinners and the Lord’s enemies. All those who served False and Lying Deities, those who meant well but believed in their lies are also doomed to the kingdom of pain. Those who served erroneous beliefs or worshipped other ideals, whether by their own will or through deception, conscious choices or naïve delusion, will end up in Hell after their death. The First Circle, where the unbaptized lie, awaits them. Even in life, they will appear there as Pagans, forever marked by their own indelible mistakes.",
+                  "Maybe you were just born in a country or in a family where they worshipped another deity. Maybe you ignored the Lord’s creed to stick to other principles and theories, such a different cult, a philosophy, scientific rationalism, or agnosticism. Maybe you just lived in the wrong place or time.",
+                  "Your creed, your ideals, or your errors, whatever they might have been, cannot be justified, not even by ascribing them to ignorance. After your death, you will be sentenced to spend endless millennia in Limbo, lost in the mists of reason and the emptiness of flawed philosophies. No devils and no pain await you in Limbo, but you will find no love or solace, either. Only an eternity of restlessness. And yet, you and those like you might still find a place among the Spiriti Magni, behind the seven walls of the High Castle, at the trembling light of the Divine Flame shining in its halls.",
+                  "This is your sentence; this is your fate. Now that you are in Hell, your sin looms over you like a dark and sinister shadow, an omen of what awaits you after your death, till the end of times, unless you atone and are redeemed. As a symbol of this fateful sin, your semblance displays the emblems of the ancient and fallacious myths, but only when you disavow them will you find redemption in the glory of Divine Love.",
+                  "Fear the First Circle, as it will be the hardest test you will have to face when you get there!"
+                ]
+              },
+              {
+                "name": "Tyrant Emblems:",
+                "source": "DantesInferno",
+                "page": 48,
+                "type": "section",
+                "entries": [
+                  {
+                    "type": "inset",
+                    "name": "Crowned Skull",
+                    "entries": [
+                      "‎ ",
+                      "All tyrants bear a helmet, a tiara, or a crown depicting a Crowned Skull, symbolizing the fleeting nature of earthly power, violence, and subjugation before the ineluctability of death and eternal justice.",
+                      "Every creature within 30 feet of you has disadvantage on saving throws against being frightened.",
+                      "‎ ",
+                      "‎ • {@b Tormented:} You can use an action to cast the {@spell fear} spell (spell save DC 15). Once you use this feature, you can't use it again until you finish a short or long rest.",
+                      "‎ ‎",
+                      "‎ • {@b Burned:} you can use your action to cast the {@spell hold monster} spell (spell save DC 16). Once you use this feature, you can't use it again until you finish a long rest.",
+                      "‎‎ ",
+                      "‎ • {@b Damned:} You can use an action to cast the {@spell dominate monster} spell (spell save DC 17). Once you use this feature, you can't use it again until you finish a long rest."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Blood-Red Cloak",
+                    "entries": [
+                      "‎ ",
+                      "A tyrant wears a long red cloak drenched in blood. The coat is so heavy that it falls straight from the tyrant’s shoulders and constantly leaves a trail of crimson drops that cannot be concealed. The cloak foreshadows the blood into which the tyrant will eternally sink after their death, in Flegetonte.",
+                      "The Blood-Red Cloak acts as a suit of magic armor. Its wearer has AC 16 and disadvantage on Dexterity (Stealth) checks. The cloak doesn’t let you add your Dexterity modifier to your Armor Class, but it also doesn’t penalize you if your Dexterity modifier is negative.",
+                      "‎ ",
+                      "‎ • {@b Tormented:}  You no longer have disadvantage on Dexterity (Stealth) checks when you wear the Blood-Red Cloak. In addition, you gain a +1 bonus to saving throws.",
+                      "‎ ‎",
+                      "‎ • {@b Burned:} You gain resistance to fire damage. If you already have fire damage resistance from another source, you gain immunity to fire damage instead.",
+                      "‎‎ ",
+                      "‎ • {@b Damned:} When you take damage from a creature within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature."
+                    ]
+                  },
+                  {
+                    "type": "inset",
+                    "name": "Burden",
+                    "entries": [
+                      "‎ ",
+                      "A tyrant always carries a sword or another gigantic weapon symbolizing the weight of their acts of violence, but also allowing them to draw their enemies’ blood. The very same boiling blood they will have to endure for all eternity. You always hold your Burden, and you can never drop it.",
+                      "The Burden is a magic melee weapon with the two-handed property. At the start of your turn, you can choose to use it for defence or for offence",
+                      "{@i Defence:} the Burden deals 1d8 slashing damage and grants a +2 bonus to AC. In addition, you are considered as if you were wielding a shield.",
+                      "{@i Offence:} the Burden deals 2d6 slashing damage.",
+                      "‎ ",
+                      "‎ • {@b Tormented:}   You gain a +1 bonus to attack and damage rolls you make with your Burden.",
+                      "‎ ‎",
+                      "‎ • {@b Burned:} The bonus to attack and damage rolls you make with your Burden increases to +2. In addition, you gain the following powers:",
+                      "{@i Defence:} When you use an action to attack defensively with your Burden, you can transfer some or all of the weapon’s bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +1 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn.",
+                      "{@i Offence:} When you hit a creature with your Burden in offence mode, that creature cannot restore hit points for 1 minute. At the end of each of its turns, an affected target can make a DC 16 Constitution saving throw. If it succeeds, this effect ends for that target.",
+                      "‎‎ ",
+                      "‎ • {@b Damned:}  The bonus to attack and damage rolls you make with your Burden increases to +3."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ],
   "classFeature": [
@@ -2293,6 +2472,74 @@
       "entries": [
         "At 14th level, when you take damage that would reduce you to 0 hit points against your will, you can use your reaction to transform yourself into one of your beast shapes, which will take the highest possible amount of triggering damage without expending a use of your Wild Shape feature. In addition, you select a type of damage among those dealt by the spells in your list of prepared spells. When you transform yourself, any creatures of your choice within 30 feet of you take damage of that type equal to 2d8 + your Wisdom modifier.",
         "Once you use this feature, you can't use it again until you finish a long rest."
+      ]
+    },
+    {
+      "name": "Embracing Your Sin",
+      "source": "DantesInferno",
+      "page": 49,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 1,
+      "entries": [
+        "If you spend 2 Hope Points, you can make one attack using your Burden as a bonus action."
+      ]
+    },
+    {
+      "name": "Blood Calls Blood",
+      "source": "DantesInferno",
+      "page": 49,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 3,
+      "entries": [
+        "When you gain this Archetype at 3rd level, you learn the ability to empower your attacks with special dice called Blood Dice.",
+        "{@b Blood Dice:} When you hit a creature with an attack using your Burden, you gain a Blood Die until the end of your tune, which is a d8. A Blood Die is expended when you use it. When you hit a creature with an attack using your Burden, you can spend a number of Blood Die equal to hald your proficiency bonus (rounded down) and add them to your damage roll. You can accrue a number of Blood Die equal to your proficiency bonus. When you complete a short or long rest, the blood flowing from your red cloak dries in a foul crust of sin and you lose all your accrued Blood Dice.",
+        "{@b Heavily Burdened:} While the tyrant has at least one Blood Die, all attack rolls made against them have advantage."
+      ]
+    },
+    {
+      "name": "Blood Critical",
+      "source": "DantesInferno",
+      "page": 49,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 7,
+      "entries": [
+        "Starting at 7th level, when you score a critical hit with your Burden, you gain an additional blood die."
+      ]
+    },
+    {
+      "name": "Improved Blood Dice (d10)",
+      "source": "DantesInferno",
+      "page": 49,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 10,
+      "entries": [
+        "At 10th level, your Blood Dice become d10s."
+      ]
+    },
+    {
+      "name": "Bloodied Wind",
+      "source": "DantesInferno",
+      "page": 49,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 15,
+      "entries": [
+        "Starting at 15th level, when you use your {@feature Second Wind} feature, you can spend one or more blood dice. You roll your Blood Dice and restore a number of additional hit points equal to the rolled total."
+      ]
+    },
+    {
+      "name": "Improved Blood Dice (d12)",
+      "source": "DantesInferno",
+      "page": 45,
+      "className": "The Lost Fighter",
+      "classSource": "DantesInferno",
+      "level": 18,
+      "entries": [
+        "At 18th level, your Blood Dice become d12s."
       ]
     }
   ],
